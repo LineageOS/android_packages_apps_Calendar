@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAB3//+MQ\u003d",
+        "filename": "res/values-it/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-23T08:17:05Z",
+      "side": 1,
+      "message": "Hrm, why is this untraslatable?",
+      "revId": "b948f4feefd60ad18d79b23bb11ca02548510281",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
