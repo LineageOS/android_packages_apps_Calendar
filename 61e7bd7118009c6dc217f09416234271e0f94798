@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAB3//+QI\u003d",
+        "filename": "src/com/android/calendar/MonthView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 952,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-23T04:13:44Z",
+      "side": 1,
+      "message": "Spaces please :(",
+      "revId": "61e7bd7118009c6dc217f09416234271e0f94798",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
