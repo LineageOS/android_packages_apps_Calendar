@@ -34,6 +34,24 @@
       "revId": "4917bb4fe720e14c3144cbb9e2b9f029866f1e98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAACn//+gY\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 373,
+      "author": {
+        "id": 280
+      },
+      "writtenOn": "2011-03-05T18:01:46Z",
+      "side": 1,
+      "message": "If it\u0027s ok to be set as untranslatable, then all other languages\u0027 res with this string entry should be patched and checked in, right?",
+      "parentUuid": "AAAACn//+is\u003d",
+      "revId": "4917bb4fe720e14c3144cbb9e2b9f029866f1e98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
