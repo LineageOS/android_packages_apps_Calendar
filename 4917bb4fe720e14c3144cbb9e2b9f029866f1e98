@@ -52,6 +52,24 @@
       "revId": "4917bb4fe720e14c3144cbb9e2b9f029866f1e98",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAACn//+gQ\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 373,
+      "author": {
+        "id": 479
+      },
+      "writtenOn": "2011-03-05T18:19:12Z",
+      "side": 1,
+      "message": "I interpreted Steve\u0027s response as \"revert to translatable\".\n\nI\u0027m close to being comfortable with git but I missed to amend this commit and it became a new change:\nhttp://review.cyanogenmod.com/#change,3609\n\nShould I abandon that new change, and instead amend this change with the addition of removing all translated versions?",
+      "parentUuid": "AAAACn//+gY\u003d",
+      "revId": "4917bb4fe720e14c3144cbb9e2b9f029866f1e98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
