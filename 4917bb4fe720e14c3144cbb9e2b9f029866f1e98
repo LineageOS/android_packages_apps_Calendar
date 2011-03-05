@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAACn//+mM\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 373,
+      "author": {
+        "id": 280
+      },
+      "writtenOn": "2011-03-05T00:02:27Z",
+      "side": 1,
+      "message": "I\u0027m sure about this one, as it is not commented as \"DO NOT TRANSLATE\". Perhaps we should leave this one translatable for countries/cultures in which would have a different week start day.",
+      "revId": "4917bb4fe720e14c3144cbb9e2b9f029866f1e98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
