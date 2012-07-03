@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6mo\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-03T13:35:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAUH//6yE\u003d",
+      "revId": "632a585a08e1d29c848a0229da1cdc5ae1ea8494",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//6x8\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2012-07-03T02:09:51Z",
       "side": 1,
       "message": "Klinkt raar...?",
+      "revId": "632a585a08e1d29c848a0229da1cdc5ae1ea8494",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6mk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-03T13:35:11Z",
+      "side": 1,
+      "message": "Uitstellen voor...\n- 5 min.\n- 10 min.\n\nDat soort dingen, denk ik (?). De Engelse vertaling is \u0027snooze\u0027.",
+      "parentUuid": "AAAAUH//6x8\u003d",
       "revId": "632a585a08e1d29c848a0229da1cdc5ae1ea8494",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
