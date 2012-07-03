@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//6yE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-07-03T02:09:51Z",
+      "side": 1,
+      "message": "Ik weet dat er in de oude versie een spatie zat tussen extra en de puntjes, maar is dat nodig? Elders wordt dat niet gebruikt.",
+      "revId": "632a585a08e1d29c848a0229da1cdc5ae1ea8494",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6x8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-07-03T02:09:51Z",
+      "side": 1,
+      "message": "Klinkt raar...?",
+      "revId": "632a585a08e1d29c848a0229da1cdc5ae1ea8494",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
