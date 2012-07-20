@@ -16,6 +16,24 @@
       "revId": "450b33f47f0bc6267161d0d1acd67dd94e4347c5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVX///Qw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-20T03:09:49Z",
+      "side": 1,
+      "message": "Het is de tijdzone die standaard ingesteld moet worden, dus ik denk dat dan de Engelse/internationale vorm moet worden gebruikt.",
+      "parentUuid": "AAAAUX///UY\u003d",
+      "revId": "450b33f47f0bc6267161d0d1acd67dd94e4347c5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
