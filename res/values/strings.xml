@@ -519,7 +519,7 @@
     <!-- Title of popup for week start day setting-->
     <string name="preferences_week_start_day_dialog">Week starts on</string>
     <!-- DO NOT TRANSLATE -->
-    <string name="preferences_week_start_day_default">-1</string>
+    <string name="preferences_week_start_day_default" translatable="false">-1</string>
     <!-- Title of the settings item to clear the recent search history [CHAR LIMIT=40] -->
     <string name="preferences_clear_search_history_title">Clear search history</string>
     <!-- Summary of the settings item to clear the recent search history [CHAR LIMIT=70]-->
@@ -550,7 +550,7 @@
     <!-- Settings title for selecting a 'home' time zone to display Calendar in [CHAR LIMIT = 18] -->
     <string name="preferences_home_tz_title">Home time zone</string>
     <!-- DO NOT TRANSLATE -->
-    <string name="preferences_home_tz_default">America/Los_Angeles</string>
+    <string name="preferences_home_tz_default" translatable="false">America/Los_Angeles</string>
 
     <!-- Title of the settings item to show week number in week view [CHAR LIMIT=40] -->
     <string name="preferences_show_week_num_title">Show week number</string>
@@ -585,7 +585,7 @@
 
 
     <!-- DO NOT TRANSLATE -->
-    <string name="tardis">TARDIS</string>
+    <string name="tardis" translatable="false">TARDIS</string>
 
     <!-- Experimental settings [CHAR LIMIT = 30]-->
     <string name="preferences_experimental_category">Experimental</string>
@@ -749,5 +749,5 @@
     <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
 
     <!-- Do Not Translate.  Sender identity for global notification synchronization. -->
-    <string name="notification_sender_id"></string>
+    <string name="notification_sender_id" translatable="false"></string>
 </resources>
