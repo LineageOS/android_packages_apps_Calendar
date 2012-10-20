@@ -19,6 +19,58 @@
     },
     {
       "key": {
+        "uuid": "AAAAaH///G0\u003d",
+        "filename": "res/values-nl/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-20T04:00:39Z",
+      "side": 1,
+      "message": "Mee eens. Kan namelijk over meerdere dagen verdeeld zijn.",
+      "parentUuid": "AAAAY3///p0\u003d",
+      "revId": "5edc822bbe2e6073db43083f8b143bc5b9205438",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///Gw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-20T04:00:39Z",
+      "side": 1,
+      "message": "discard \u003d! herstellen\n\nIk zou hier \"Weggooien\" van maken, zoals je wel vaker in Android ziet of gewoon \"Annuleren\".",
+      "revId": "5edc822bbe2e6073db43083f8b143bc5b9205438",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///Go\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-20T04:00:39Z",
+      "side": 1,
+      "message": "Niet met deze afkorting eens, als je je telefoon draait, kan je prima lezen wat er staat als het voluit is geschreven.\nIs in JellyBean ook voluit.",
+      "revId": "5edc822bbe2e6073db43083f8b143bc5b9205438",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAY3///pw\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -30,6 +82,24 @@
       "writtenOn": "2012-10-07T16:38:29Z",
       "side": 1,
       "message": "Vind het vorige toch beter.",
+      "revId": "5edc822bbe2e6073db43083f8b143bc5b9205438",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///Gs\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-10-20T04:00:39Z",
+      "side": 1,
+      "message": "Ik ook, zoals het origineel is, is het ook vertaald in JellyBean.",
+      "parentUuid": "AAAAY3///pw\u003d",
       "revId": "5edc822bbe2e6073db43083f8b143bc5b9205438",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
