@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//7Qo\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 4733
+      },
+      "writtenOn": "2013-02-24T18:19:03Z",
+      "side": 1,
+      "message": "I think \"Intervalo de tiempo entre recordatorios por defecto\" sounds much better than \"Tiempo de intervalo entre recordatorios por defecto\"",
+      "revId": "4a9f4dd671b9c67bb97de016434afd436d124404",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
