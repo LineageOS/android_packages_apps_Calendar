@@ -1,0 +1,191 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//7fM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "Gasten? Als ik in Outlook kijk kan ik \"Deelnemers\" uitnodigen.....\n\nzie ook r.160 en 168",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7fI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "Deelnemers",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7fE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "Deelnemers",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7fA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "Deelnemers",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7e8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "Deelnemers",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7fU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "- Snoozeduur vragen\n\n\"Snoozeduur\" staat ook in DeskClock",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7fQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "- Duur vragen bij het snoozen van een herinnering",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7e4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "- Altijd de standaard duur gebruiken",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7ec\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "- Snoozeduur instellen",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7eY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "- Standaard snoozeduur",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//7eU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-24T03:08:46Z",
+      "side": 1,
+      "message": "- Standaard snoozeduur",
+      "revId": "628722cf1e162bc55376ad8c526e4c98bd28375c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
