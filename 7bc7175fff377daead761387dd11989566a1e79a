@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//7WU\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 225,
+      "author": {
+        "id": 4591
+      },
+      "writtenOn": "2013-02-24T13:06:34Z",
+      "side": 1,
+      "message": "Tempo padrão de atraso da soneca",
+      "revId": "7bc7175fff377daead761387dd11989566a1e79a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
