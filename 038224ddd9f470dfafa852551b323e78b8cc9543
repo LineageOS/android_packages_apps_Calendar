@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//7I4\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-24T23:50:21Z",
+      "side": 1,
+      "message": "That\u0027s way too long! Maximum is 25 characters (and I know, the English translation exceeds it also...)",
+      "revId": "038224ddd9f470dfafa852551b323e78b8cc9543",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
