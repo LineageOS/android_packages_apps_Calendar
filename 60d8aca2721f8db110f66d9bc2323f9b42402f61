@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//6uI\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-02-26T20:39:27Z",
+      "side": 1,
+      "message": "\"Povtornoe napominanie\" will be better",
+      "revId": "60d8aca2721f8db110f66d9bc2323f9b42402f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//6uM\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-02-26T20:39:27Z",
+      "side": 1,
+      "message": "Prosto \"otlozhit\u0027 na ...\" i vse. \"Povtor\" tut izlishne.",
+      "revId": "60d8aca2721f8db110f66d9bc2323f9b42402f61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
