@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAd3///48\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-04T01:51:46Z",
+      "side": 1,
+      "message": "De manière générale, je sépare toujours les traductions provenant des sources AOSP (avec les \"msgid\") des traductions ajoutées par la team CyanogenMod. En premier les \"msgid\" comme le fichier source, je sépare avec un ligne de commentaire \"    \u003c!-- ****  CYANOGENMOD ADDITIONS  **** --\u003e et ensuite les traductions supplémentaires. C\u0027est plus clair quand on veux reprendre le ficher.",
+      "revId": "0357567215aebada0cbc6213c52d3d69e016d304",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAd3///44\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-04T01:51:46Z",
+      "side": 1,
+      "message": "idem, je déplacerai tout ça en bas.",
+      "revId": "0357567215aebada0cbc6213c52d3d69e016d304",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
