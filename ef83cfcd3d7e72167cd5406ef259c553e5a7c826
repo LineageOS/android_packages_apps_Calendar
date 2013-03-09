@@ -16,6 +16,24 @@
       "revId": "ef83cfcd3d7e72167cd5406ef259c553e5a7c826",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//+KA\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-03-09T07:35:10Z",
+      "side": 1,
+      "message": "Spanish strings uses uppercase. See: https://android.googlesource.com/platform/packages/apps/Settings/+/android-cts-4.2_r2/res/values-es/strings.xml\n\nTo avoid future problems, I\u0027ll give same format",
+      "parentUuid": "AAAAeX//+Kk\u003d",
+      "revId": "ef83cfcd3d7e72167cd5406ef259c553e5a7c826",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
