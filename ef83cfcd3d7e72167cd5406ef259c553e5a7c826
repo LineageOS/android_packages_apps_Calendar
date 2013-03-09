@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//+Kk\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-03-09T07:11:22Z",
+      "side": 1,
+      "message": "Why do you write \"UTF\" in uppercase? AOSP uses lowercase ;)\n\nhttps://android.googlesource.com/platform/packages/apps/Settings/+/android-cts-4.2_r2/res/values/strings.xml",
+      "revId": "ef83cfcd3d7e72167cd5406ef259c553e5a7c826",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
