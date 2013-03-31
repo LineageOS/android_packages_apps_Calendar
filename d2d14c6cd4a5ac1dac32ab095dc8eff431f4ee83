@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX//1Xo\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-31T15:30:16Z",
+      "side": 1,
+      "message": "Geen idee, maar het is ook zo in de Engelse vertaling dus laat ik dit staan.\n\nhttps://github.com/android/platform_packages_apps_calendar/blob/android-4.2.2_r1/res/values/strings.xml#L95",
+      "parentUuid": "AAAAeX//1Yg\u003d",
+      "revId": "d2d14c6cd4a5ac1dac32ab095dc8eff431f4ee83",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX//1YY\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 5
@@ -30,6 +48,24 @@
       "writtenOn": "2013-03-31T15:16:48Z",
       "side": 1,
       "message": "Ik zie 2 verschillende uitvoeringen van ... (regel 121 vs 127)",
+      "revId": "d2d14c6cd4a5ac1dac32ab095dc8eff431f4ee83",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//1Xs\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-31T15:30:16Z",
+      "side": 1,
+      "message": "Daar is AOSP niet zo consistent in, daar heb je gelijk in. Het is alleen zo dat het steeds vervangen van \u0027...\u0027 voor veel merge conflicts zorgt. Daarom is besloten om dit te reverten en niet meer toe te staan.",
+      "parentUuid": "AAAAeX//1YY\u003d",
       "revId": "d2d14c6cd4a5ac1dac32ab095dc8eff431f4ee83",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
