@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//7V0\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-04-13T18:05:05Z",
+      "side": 1,
+      "message": "Does not exist. Please revert",
+      "revId": "a5b26a5235ebec4ceaecea69b59a047e8831c1dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//7Vw\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-04-13T18:05:05Z",
+      "side": 1,
+      "message": "Does not exist. Please revert",
+      "revId": "a5b26a5235ebec4ceaecea69b59a047e8831c1dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//7Vs\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-04-13T18:05:05Z",
+      "side": 1,
+      "message": "Please revert",
+      "revId": "a5b26a5235ebec4ceaecea69b59a047e8831c1dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//7Vo\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-04-13T18:05:05Z",
+      "side": 1,
+      "message": "Does not exist. Please revert",
+      "revId": "a5b26a5235ebec4ceaecea69b59a047e8831c1dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//7V4\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 223,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-04-13T18:05:05Z",
+      "side": 1,
+      "message": "Please revert",
+      "revId": "a5b26a5235ebec4ceaecea69b59a047e8831c1dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
