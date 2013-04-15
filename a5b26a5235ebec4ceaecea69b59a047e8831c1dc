@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAen//7Bk\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1558
+      },
+      "writtenOn": "2013-04-15T19:25:25Z",
+      "side": 1,
+      "message": "It can\u0027t exists. Plurals in Android API are created to cover language differences. In English there are only 2 plurals - \"one\" and \"other\", as you can see in Android API - http://developer.android.com/guide/topics/resources/string-resource.html#Plurals - the \"few\" is for special treatment in Czech language. In English is useless.",
+      "parentUuid": "AAAAen//7V0\u003d",
+      "revId": "a5b26a5235ebec4ceaecea69b59a047e8831c1dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAen//7Vw\u003d",
         "filename": "res/values-cs/strings.xml",
         "patchSetId": 1
