@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iP95lzA",
+        "filename": "res/values-zh-rTW/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-06-18T00:03:56Z",
+      "side": 1,
+      "message": "Take out the comments and the translatable\u003d\"false\" string please.",
+      "revId": "7c64240bd45b8880b547dc9e528c52c97865c377",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
