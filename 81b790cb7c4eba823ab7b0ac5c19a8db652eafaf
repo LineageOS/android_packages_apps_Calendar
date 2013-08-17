@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_221dce73",
+        "filename": "src/com/android/calendar/alerts/AlertActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-08-17T06:32:57Z",
+      "side": 1,
+      "message": "This smells like a variable in another class should be reused instead of duplicated.",
+      "revId": "81b790cb7c4eba823ab7b0ac5c19a8db652eafaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_622cf6ab",
+        "filename": "src/com/android/calendar/alerts/AlertActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 306,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-08-17T06:32:57Z",
+      "side": 1,
+      "message": "This should integrate with our snooze delay setting.",
+      "revId": "81b790cb7c4eba823ab7b0ac5c19a8db652eafaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
