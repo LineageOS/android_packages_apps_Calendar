@@ -34,6 +34,24 @@
       "revId": "f19fe658e87fa7e666b59fc701a5f7efacf1d8c8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_25527a14",
+        "filename": "res/values-ja/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2013-08-23T23:52:48Z",
+      "side": 1,
+      "message": "I see... anyway, I have an idea as I commented above.\nI will upload new patch set later today if Takuo can\u0027t beat me.",
+      "parentUuid": "baee8101_6531a2ec",
+      "revId": "f19fe658e87fa7e666b59fc701a5f7efacf1d8c8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
