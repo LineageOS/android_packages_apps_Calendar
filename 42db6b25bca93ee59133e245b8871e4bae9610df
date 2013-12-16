@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a740942_959383a3",
+        "filename": "res/values-lt/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-16T05:27:09Z",
+      "side": 1,
+      "message": "Please use new copyright notice",
+      "revId": "42db6b25bca93ee59133e245b8871e4bae9610df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
