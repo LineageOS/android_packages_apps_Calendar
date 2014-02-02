@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_564bb42b",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2014-02-02T01:36:57Z",
+      "side": 1,
+      "message": "-1 typo: Standaardweergave",
+      "revId": "8eb741b49675021b46c99a9d3537c41425e7fab2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
