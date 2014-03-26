@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_66038374",
+        "filename": "res/values-es/cm_aosp.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2014-03-26T08:04:39Z",
+      "side": 1,
+      "message": "Even better ;)",
+      "revId": "6351478dfdd628b710bf425c2e88906c5ac28418",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
