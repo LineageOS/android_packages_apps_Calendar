@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_475ace84",
+        "filename": "src/com/android/calendar/DeleteEventsActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 469,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2014-08-26T13:20:07Z",
+      "side": 1,
+      "message": "extra line to be cleaned up.",
+      "revId": "b7d620884b380b2fbd63769e045f545192aa85e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
