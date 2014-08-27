@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_6d924b59",
+        "filename": "src/com/android/calendar/DeleteEventsActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 318,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2014-08-27T09:27:41Z",
+      "side": 1,
+      "message": "Should use TextUtils for this. I\u0027ll throw up another patch.",
+      "revId": "8bff2798dcc8a11b242d04d157de3d4475c916dd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
