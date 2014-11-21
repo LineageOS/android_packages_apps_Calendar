@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_46267017",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1302,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-11-21T14:43:04Z",
+      "side": 1,
+      "message": "Instead of adding from each of these lists separately, can we add all to a single list?\nAt that point, might as well have a method in the ICalendarUtils that\u0027ll accept a list instead of a single attendee.",
+      "revId": "2041be6cd0b29f673884383eb072b24f8d06a1bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_862058f9",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1314,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-11-21T14:43:04Z",
+      "side": 1,
+      "message": "I\u0027m not sure about this, why aren\u0027t we specifying a mimetype here?",
+      "revId": "2041be6cd0b29f673884383eb072b24f8d06a1bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
