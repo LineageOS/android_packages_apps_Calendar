@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "bab6814e_85905097",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1302,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-11-25T15:16:43Z",
+      "side": 1,
+      "message": "Seems like it would do pretty much the same thing if you added it to an intermediate list first, not sure that\u0027s necessary.",
+      "parentUuid": "dab17558_46267017",
+      "revId": "2041be6cd0b29f673884383eb072b24f8d06a1bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dab17558_862058f9",
         "filename": "src/com/android/calendar/EventInfoFragment.java",
         "patchSetId": 2
@@ -30,6 +48,75 @@
       "writtenOn": "2014-11-21T14:43:04Z",
       "side": 1,
       "message": "I\u0027m not sure about this, why aren\u0027t we specifying a mimetype here?",
+      "revId": "2041be6cd0b29f673884383eb072b24f8d06a1bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_a5863463",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1314,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-11-25T15:16:43Z",
+      "side": 1,
+      "message": "The MIME type should be \"text/calendar\" for an ICS file. Does specifying the type limit the possible apps that appear in the intent chooser?",
+      "parentUuid": "dab17558_862058f9",
+      "revId": "2041be6cd0b29f673884383eb072b24f8d06a1bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_057c6071",
+        "filename": "src/com/android/calendar/icalendar/VCalendar.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-11-25T15:16:43Z",
+      "side": 1,
+      "message": "Do you also need to enforce the line length on these lines that contain the events?",
+      "revId": "2041be6cd0b29f673884383eb072b24f8d06a1bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_e5803c49",
+        "filename": "src/com/android/calendar/icalendar/VEvent.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-11-25T15:16:43Z",
+      "side": 1,
+      "message": "unnecessary whitespace",
+      "revId": "2041be6cd0b29f673884383eb072b24f8d06a1bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_45966895",
+        "filename": "src/com/android/calendar/icalendar/VEvent.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-11-25T15:16:43Z",
+      "side": 1,
+      "message": "Why did you add \"@cyngn.com?\" We can just use randomUUID().toString() for this right?",
       "revId": "2041be6cd0b29f673884383eb072b24f8d06a1bd",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
