@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_77c4f091",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 1309,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-02T09:12:01Z",
+      "side": 1,
+      "message": "to prevent file name conflicts you might want to use temp file api (File.createTempFile) creates unique file name in the directory with prefix and suffix.\n\nhttp://developer.android.com/reference/java/io/File.html#createTempFile(java.lang.String, java.lang.String, java.io.File)\n\nShould hopefully prevent any weirdness that could happen after sharing two events with different apps.",
+      "revId": "9196549473f59e8efe43d1c6f17d80cdcef50cd2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
