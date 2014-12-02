@@ -16,6 +16,24 @@
       "revId": "9196549473f59e8efe43d1c6f17d80cdcef50cd2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_b793f8f9",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 1309,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2014-12-02T12:26:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bab6814e_77c4f091",
+      "revId": "9196549473f59e8efe43d1c6f17d80cdcef50cd2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
