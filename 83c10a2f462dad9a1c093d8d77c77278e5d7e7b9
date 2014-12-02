@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_e94928d2",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 2438,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2014-12-02T17:39:28Z",
+      "side": 1,
+      "message": "Does this succeed even though another process has an open reference to the file? What if the application on the receiving end does not finish using the file right away, or has not finished reading it\u0027s contents? \n\nI\u0027m in the process of testing this, so it might work. If this could be a problem, though, maybe you could have a temp directory and periodically delete from it when it reaches a certain size instead.",
+      "revId": "83c10a2f462dad9a1c093d8d77c77278e5d7e7b9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
