@@ -16,6 +16,24 @@
       "revId": "83c10a2f462dad9a1c093d8d77c77278e5d7e7b9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_7f37a6e3",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 2438,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2014-12-03T07:10:59Z",
+      "side": 1,
+      "message": "The delete op will succeed in the sense that other readers or writers won\u0027t be able to access this file. But the file handle that is already open still has read access to the file. The file will be deleted once the last open file handle is closed.\n\nI went this direction to avoid having to do periodic clean-up and having to define a duration for how long to hold the temp files. This also allows the intent-handling-activity to take its time with the file if need be.\n\nhttp://stackoverflow.com/questions/2028874/what-happens-to-an-open-file-handler-on-linux-if-the-pointed-file-gets-moved-de",
+      "parentUuid": "bab6814e_e94928d2",
+      "revId": "83c10a2f462dad9a1c093d8d77c77278e5d7e7b9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
