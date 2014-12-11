@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_89aa2d18",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-12-11T03:59:03Z",
+      "side": 1,
+      "message": "This doesn\u0027t look like a good picker title...how about \u0027Send event via\u0027 or \u0027Send event to\u0027 or something among those lines?",
+      "revId": "49351023ab6495ecf45ef5bc4cdd17291c8baf5a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
