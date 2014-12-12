@@ -1,0 +1,174 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_4edb26ee",
+        "filename": "res/layout/year_by_month.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "closing tag is unnecessary, no children, close with /\u003e",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_8ee50eaa",
+        "filename": "res/values/colors.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "Caps",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_6ee26aa1",
+        "filename": "src/com/android/calendar/AllInOneActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "reset to false",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_ceed5690",
+        "filename": "src/com/android/calendar/AllInOneActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 971,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "Can this block be removed?",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_aef2926d",
+        "filename": "src/com/android/calendar/AllInOneActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 1367,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "\" Year:\"",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_0ee8fe7b",
+        "filename": "src/com/android/calendar/CalendarController.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "reset to false",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_2effc235",
+        "filename": "src/com/android/calendar/year/YearViewAdapter.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "should these values be in dimens.xml?",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_6ef9ca4d",
+        "filename": "src/com/android/calendar/year/YearViewAdapter.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "Use a constant",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_0e9f5e04",
+        "filename": "src/com/android/calendar/year/YearViewPagerFragment.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "you have a constant defined for this, use it",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_ce9436ea",
+        "filename": "src/com/android/calendar/year/YearViewPagerFragment.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "dce0d7d5dc2af53bdc1e227ffcb5a96e2be90373",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

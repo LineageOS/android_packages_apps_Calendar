@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_4e020640",
+        "filename": "src/com/android/calendar/month/MonthByWeekAdapter.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 319,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T10:57:39Z",
+      "side": 0,
+      "message": "Unnecessary",
+      "revId": "88cda7db95cc9e05ea1a3a2cd355f89ca98dada3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
