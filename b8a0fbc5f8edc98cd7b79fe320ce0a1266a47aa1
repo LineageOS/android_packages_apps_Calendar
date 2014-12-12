@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_6e2c2aac",
+        "filename": "src/com/android/calendar/AllInOneActivity.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1364,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-12T11:40:35Z",
+      "side": 1,
+      "message": "Space needed in front of the year \"_Year:\"",
+      "revId": "b8a0fbc5f8edc98cd7b79fe320ce0a1266a47aa1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
