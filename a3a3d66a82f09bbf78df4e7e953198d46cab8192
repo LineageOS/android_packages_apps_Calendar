@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_74c40040",
+        "filename": "src/com/android/calendar/AllInOneActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 646,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-13T15:32:02Z",
+      "side": 1,
+      "message": "ics and vcs",
+      "revId": "a3a3d66a82f09bbf78df4e7e953198d46cab8192",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_d4b4d4d2",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1353,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-13T15:32:02Z",
+      "side": 1,
+      "message": "Can we just copy the files rather than calling write* again ?\n\nThere are a lot of string builder allocations and ical specification conformity checks during the process of generating an ics file. For larger events, calling write twice might cause a bit of UI lag for no good reason.",
+      "revId": "a3a3d66a82f09bbf78df4e7e953198d46cab8192",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
