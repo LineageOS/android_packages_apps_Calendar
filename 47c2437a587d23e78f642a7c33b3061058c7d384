@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_b4c66814",
+        "filename": "res/layout/floating_action_button.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-13T16:46:32Z",
+      "side": 1,
+      "message": "Is the indentation correct here? 4 spaces?",
+      "revId": "47c2437a587d23e78f642a7c33b3061058c7d384",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
