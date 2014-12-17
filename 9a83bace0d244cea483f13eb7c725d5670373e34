@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_5c375fe3",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T18:33:18Z",
+      "side": 1,
+      "message": "capitalization : x-vCalendar",
+      "revId": "9a83bace0d244cea483f13eb7c725d5670373e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_bc3483de",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T18:33:18Z",
+      "side": 1,
+      "message": "not needed",
+      "revId": "9a83bace0d244cea483f13eb7c725d5670373e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_bc1da368",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 1364,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T18:33:18Z",
+      "side": 1,
+      "message": "extra line",
+      "revId": "9a83bace0d244cea483f13eb7c725d5670373e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_3c57f303",
+        "filename": "src/com/android/calendar/ImportActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T18:33:18Z",
+      "side": 1,
+      "message": "maybe call the parameter input or iCalDate or sth other than string. Easier to read later on when we read this code again at a later time",
+      "revId": "9a83bace0d244cea483f13eb7c725d5670373e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_9c1a676d",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T18:33:18Z",
+      "side": 1,
+      "message": "comment should say reintroduce new lines",
+      "revId": "9a83bace0d244cea483f13eb7c725d5670373e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_dc2a2f7e",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T18:33:18Z",
+      "side": 1,
+      "message": "reintroduce semicolons and commas",
+      "revId": "9a83bace0d244cea483f13eb7c725d5670373e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_3c20939b",
+        "filename": "src/com/android/calendar/icalendar/VCalendar.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T18:33:18Z",
+      "side": 1,
+      "message": "offload *",
+      "revId": "9a83bace0d244cea483f13eb7c725d5670373e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
