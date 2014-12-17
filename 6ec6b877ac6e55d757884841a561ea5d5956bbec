@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_ba676624",
+        "filename": "res/menu/event_info_title_bar.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_5a02c23f",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_3afff635",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2014-12-17T17:19:27Z",
       "side": 1,
       "message": "let\u0027s go with \"Pick file to...\" or \"Pick .ics file to...\" instead?",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_1a6dda04",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_3afff635",
       "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_fa71eee1",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1372,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_7af97e4d",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_da94f2e9",
         "filename": "src/com/android/calendar/EventInfoFragment.java",
         "patchSetId": 2
@@ -64,6 +118,24 @@
       "writtenOn": "2014-12-17T17:19:27Z",
       "side": 1,
       "message": "remove debugging statement",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_5a7762d4",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1384,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_da94f2e9",
       "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +193,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_3a7416ce",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1399,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_5a8922ca",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_3a86d6b9",
         "filename": "src/com/android/calendar/ImportActivity.java",
         "patchSetId": 2
@@ -132,6 +222,24 @@
       "writtenOn": "2014-12-17T17:19:27Z",
       "side": 1,
       "message": "wrap this line",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_9a81ca92",
+        "filename": "src/com/android/calendar/ImportActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_3a86d6b9",
       "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -155,6 +263,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_7a7e9eaf",
+        "filename": "src/com/android/calendar/icalendar/Attendee.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_9a938afa",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_7a905eed",
         "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
         "patchSetId": 2
@@ -166,6 +292,24 @@
       "writtenOn": "2014-12-17T17:19:27Z",
       "side": 1,
       "message": "bad!",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_da499290",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_7a905eed",
       "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -189,6 +333,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_ba4e4694",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_dabb5274",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_bac006e2",
         "filename": "src/com/android/calendar/icalendar/VCalendar.java",
         "patchSetId": 2
@@ -200,6 +362,24 @@
       "writtenOn": "2014-12-17T17:19:27Z",
       "side": 1,
       "message": "bad!",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_fa48ce89",
+        "filename": "src/com/android/calendar/icalendar/VCalendar.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_bac006e2",
       "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -223,6 +403,24 @@
     },
     {
       "key": {
+        "uuid": "7aa08908_5a5e4246",
+        "filename": "src/com/android/calendar/icalendar/VEvent.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7aa08908_1ab67a8a",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_faba8e6d",
         "filename": "src/com/android/calendar/icalendar/VEvent.java",
         "patchSetId": 2
@@ -234,6 +432,24 @@
       "writtenOn": "2014-12-17T17:19:27Z",
       "side": 1,
       "message": "is calling trim() not easier for this case?",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_3a5b7656",
+        "filename": "src/com/android/calendar/icalendar/VEvent.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T17:39:08Z",
+      "side": 1,
+      "message": "Some items have a space included in the message, so it ends up removing that too. This preserves that.",
+      "parentUuid": "7aa08908_faba8e6d",
       "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
