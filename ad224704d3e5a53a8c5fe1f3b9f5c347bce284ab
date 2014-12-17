@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "7aa08908_5cac7fed",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2014-12-17T18:57:52Z",
+      "side": 1,
+      "message": "Not needed, once mms is fixed to do SEND only",
+      "revId": "ad224704d3e5a53a8c5fe1f3b9f5c347bce284ab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_7c685bbb",
         "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
         "patchSetId": 8
