@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_7c685bbb",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T18:44:51Z",
+      "side": 1,
+      "message": "you got intellij-ed",
+      "revId": "ad224704d3e5a53a8c5fe1f3b9f5c347bce284ab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
