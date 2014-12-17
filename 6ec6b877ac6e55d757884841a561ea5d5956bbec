@@ -1,0 +1,242 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_5a02c23f",
+        "filename": "res/menu/event_info_title_bar.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "there another alphabeticshortuct for \"e\" (info_action_edit) will this cause any conflicts?",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_3afff635",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "let\u0027s go with \"Pick file to...\" or \"Pick .ics file to...\" instead?",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_7af97e4d",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1372,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "wrap char \u003e100",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_da94f2e9",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1384,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "remove debugging statement",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_1a9f9a04",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1390,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "make the string a constant",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_faa3ae4d",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1392,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "make the string a constant",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_5a8922ca",
+        "filename": "src/com/android/calendar/EventInfoFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1399,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "wrap this line",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_3a86d6b9",
+        "filename": "src/com/android/calendar/ImportActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "wrap this line",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_9a938afa",
+        "filename": "src/com/android/calendar/icalendar/Attendee.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "looks like you\u0027re only using a listiterator is this import required?",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_7a905eed",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "bad!",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_dabb5274",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "wrap",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_bac006e2",
+        "filename": "src/com/android/calendar/icalendar/VCalendar.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "bad!",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_1ab67a8a",
+        "filename": "src/com/android/calendar/icalendar/VEvent.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "remove debugging statement",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_faba8e6d",
+        "filename": "src/com/android/calendar/icalendar/VEvent.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2014-12-17T17:19:27Z",
+      "side": 1,
+      "message": "is calling trim() not easier for this case?",
+      "revId": "6ec6b877ac6e55d757884841a561ea5d5956bbec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
