@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_bc6c839d",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 9
+      },
+      "lineNbr": 168,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T20:48:06Z",
+      "side": 1,
+      "message": "sry i screwed this one up .. the mms apps actually converts the mimetype to all lowercase\nshould go back to the original",
+      "revId": "4396490cffb951af6bf6c663177e9223d7c79fdf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_7c969b95",
+        "filename": "src/com/android/calendar/ImportActivity.java",
+        "patchSetId": 9
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 11071
+      },
+      "writtenOn": "2014-12-17T20:48:06Z",
+      "side": 1,
+      "message": "one more",
+      "revId": "4396490cffb951af6bf6c663177e9223d7c79fdf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
