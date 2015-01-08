@@ -16,6 +16,24 @@
       "revId": "2585d0d05376d74c4cf1aaf765f3cf53f5e3f4fd",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_4c85bbab",
+        "filename": "src/com/android/calendar/year/YearViewPagerFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 317,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-01-08T09:41:32Z",
+      "side": 1,
+      "message": "Are you worried about a case where onIntercept won\u0027t be called before onTouch resulting in mClickY being 0.0 ?\n\nAs it stands right now, there are children within the grid view that will respond w/ true for ACTION_DOWN, so onIntercept will always be triggered for scroll gestures.",
+      "parentUuid": "7aa08908_0cb453cf",
+      "revId": "2585d0d05376d74c4cf1aaf765f3cf53f5e3f4fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
