@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_0cebb3b1",
+        "filename": "src/com/android/calendar/year/YearViewAdapter.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-08T08:35:21Z",
+      "side": 1,
+      "message": "Where does this CONFIG_HEADER_TITLE_OFFSET comes from?",
+      "revId": "a65dc8f7edadad98b33136f5a0db80cb5ec8479d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
