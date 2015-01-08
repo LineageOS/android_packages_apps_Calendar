@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_0cb453cf",
+        "filename": "src/com/android/calendar/year/YearViewPagerFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 317,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-08T08:24:45Z",
+      "side": 1,
+      "message": "It seems highly difficult to trigger it, but maybe it wouldn\u0027t be a bad idea to make sure that mClickY is initialized",
+      "revId": "2585d0d05376d74c4cf1aaf765f3cf53f5e3f4fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
