@@ -34,6 +34,24 @@
       "revId": "2585d0d05376d74c4cf1aaf765f3cf53f5e3f4fd",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_8ca68351",
+        "filename": "src/com/android/calendar/year/YearViewPagerFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 317,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-08T09:47:49Z",
+      "side": 1,
+      "message": "Yeah, it is just for the possible corner case of having an ACTION_MOVE before any ACTION_DOWN. Even if it doesn\u0027t happen now, it would be a future-proof safeguard.\nIt\u0027s nothing worrying me, just a nicety suggestion, feel free to ignore it if you think it isn\u0027t worth bothering about.",
+      "parentUuid": "7aa08908_4c85bbab",
+      "revId": "2585d0d05376d74c4cf1aaf765f3cf53f5e3f4fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
