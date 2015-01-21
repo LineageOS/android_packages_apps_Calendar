@@ -36,6 +36,23 @@
     },
     {
       "key": {
+        "uuid": "fad55976_10ff8c35",
+        "filename": "src/com/android/calendar/CalendarUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 384,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-01-21T18:01:22Z",
+      "side": 1,
+      "message": "Could probably have just implemented an EventInfo inner class that contained id, start and end as instance variables, but I guess this works too.",
+      "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_103cac2e",
         "filename": "src/com/android/calendar/agenda/AgendaListView.java",
         "patchSetId": 1
