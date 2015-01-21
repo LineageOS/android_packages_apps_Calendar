@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_b02a00e6",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 180,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-01-21T17:04:28Z",
+      "side": 1,
+      "message": "White space issue",
+      "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_902ffcf5",
+        "filename": "res/layout/agenda_item.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-01-21T17:04:28Z",
+      "side": 1,
+      "message": "Tabbing looks incorrect. 4 spaces should be sufficient",
+      "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_103cac2e",
+        "filename": "src/com/android/calendar/agenda/AgendaListView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 232,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-01-21T17:04:28Z",
+      "side": 1,
+      "message": "line warp",
+      "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
