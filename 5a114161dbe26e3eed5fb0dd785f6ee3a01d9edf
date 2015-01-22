@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_f96d83cd",
+        "filename": "res/values/cm_plurals.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-01-22T15:10:10Z",
+      "side": 1,
+      "message": "currently in ShareCalendarActivity\nThese strings aren\u0027t in the final form. An action will be concatenated to them in code to form the full action sentence. \n\nThe plan is to use it in different places to form strings like : \n\"Select an event to share\"\n\"Select events to delete\"\n\"Select events to export\" .. etc\n\nEd Mancebo brought up a good point that this might not work all languages. We will just have action specific strings. I will put up a patch shortly.\n\nThanks",
+      "parentUuid": "fad55976_f91f4359",
+      "revId": "5a114161dbe26e3eed5fb0dd785f6ee3a01d9edf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_992a877d",
         "filename": "res/values/cm_strings.xml",
         "patchSetId": 4
