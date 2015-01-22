@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_be9491e8",
+        "filename": "src/com/android/calendar/ShareCalendarActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 10293
+      },
+      "writtenOn": "2015-01-22T14:23:55Z",
+      "side": 1,
+      "message": "\"to share\" should come from a resource also",
+      "revId": "c6aae6e98a3b65f60dad81c0cbaef568aaae10bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
