@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_f91f4359",
+        "filename": "res/values/cm_plurals.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-01-22T14:51:54Z",
+      "side": 1,
+      "message": "Where are these displayed? I don\u0027t think they sound right",
+      "revId": "5a114161dbe26e3eed5fb0dd785f6ee3a01d9edf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_992a877d",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-01-22T14:51:54Z",
+      "side": 1,
+      "message": "Where is this displayed?",
+      "revId": "5a114161dbe26e3eed5fb0dd785f6ee3a01d9edf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
