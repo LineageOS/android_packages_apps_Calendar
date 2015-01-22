@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_3e20a149",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 180,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-01-22T12:41:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fad55976_b02a00e6",
+      "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_902ffcf5",
         "filename": "res/layout/agenda_item.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2015-01-21T17:04:28Z",
       "side": 1,
       "message": "Tabbing looks incorrect. 4 spaces should be sufficient",
+      "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_1e1ddd0f",
+        "filename": "res/layout/agenda_item.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-01-22T12:41:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fad55976_902ffcf5",
       "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_fedc4948",
+        "filename": "src/com/android/calendar/CalendarUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 384,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-01-22T12:41:19Z",
+      "side": 1,
+      "message": "Yeah thats how it was before - a specific class containing event info. Changed it to this generic class cause we need this type of container at a later time to do circular reveals ( [component, x-coord, y-coord] ).",
+      "parentUuid": "fad55976_10ff8c35",
+      "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_103cac2e",
         "filename": "src/com/android/calendar/agenda/AgendaListView.java",
         "patchSetId": 1
@@ -64,6 +118,24 @@
       "writtenOn": "2015-01-21T17:04:28Z",
       "side": 1,
       "message": "line warp",
+      "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_dee18500",
+        "filename": "src/com/android/calendar/agenda/AgendaListView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 232,
+      "author": {
+        "id": 11035
+      },
+      "writtenOn": "2015-01-22T12:41:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fad55976_103cac2e",
       "revId": "5798a79548c6687836f4b37ca8b915bb6f55bdc4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
