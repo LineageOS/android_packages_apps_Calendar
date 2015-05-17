@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_460e7235",
+        "filename": "src/com/android/calendar/DayView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 848,
+      "author": {
+        "id": 5916
+      },
+      "writtenOn": "2015-05-17T00:55:05Z",
+      "side": 1,
+      "message": "Check for size of day name? \n\nWith some languages you will get exception since day name could be less than 3 chars in total.",
+      "revId": "b25c6c5d2591a507f0a2a4620dd2e9a9695f4943",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
