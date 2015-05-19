@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_7a49468b",
+        "filename": "src/com/android/calendar/DayView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 846,
+      "author": {
+        "id": 9045
+      },
+      "writtenOn": "2015-05-19T04:30:26Z",
+      "side": 1,
+      "message": "could just do,\n\n    Math.min(string.length, 3) \n\nin the substring param",
+      "revId": "361dbe4fc2a221710a5970b761737634963301f9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
