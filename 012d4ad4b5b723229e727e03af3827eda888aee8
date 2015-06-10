@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5201f7_f07100e2",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-06-10T06:04:03Z",
+      "side": 1,
+      "message": "What\u0027s the reason for using \"invite\" as the prefix?  I might be missing the context of why this prefix was chosen ;)",
+      "revId": "012d4ad4b5b723229e727e03af3827eda888aee8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
