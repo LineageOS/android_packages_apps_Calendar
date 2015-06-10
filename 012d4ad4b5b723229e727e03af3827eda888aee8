@@ -16,6 +16,24 @@
       "revId": "012d4ad4b5b723229e727e03af3827eda888aee8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_3009c832",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-06-10T06:26:06Z",
+      "side": 1,
+      "message": "Good question - in EventInfoFragment, where we call into this util method, there\u0027s a bit of error checking that\u0027s done before we pass in the prefix. If the event title is empty or \u003c 3 chars, it sets the prefix as \"filePrefix \u003d \"invite\";. \n\nSo I figured that\u0027d be an appropriate fall back here as well. Does it make sense to make this a constant or a string resource?",
+      "parentUuid": "ba5201f7_f07100e2",
+      "revId": "012d4ad4b5b723229e727e03af3827eda888aee8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
