@@ -52,6 +52,24 @@
       "revId": "012d4ad4b5b723229e727e03af3827eda888aee8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_734b5ab1",
+        "filename": "src/com/android/calendar/icalendar/IcalendarUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 9528
+      },
+      "writtenOn": "2015-06-10T08:33:10Z",
+      "side": 1,
+      "message": "Cool, adding a constant. Yes the other uses of this method do not provide a suffix larger than 4 characters (e.g. \".ics\").",
+      "parentUuid": "ba5201f7_d38166fd",
+      "revId": "012d4ad4b5b723229e727e03af3827eda888aee8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
