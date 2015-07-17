@@ -69,6 +69,24 @@
       "revId": "4c04c3ddebf4092ba60ec19c442be7e82129ec54",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff0f0b1f_d0a7794f",
+        "filename": "src/com/android/calendar/event/EditEventFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 932,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-07-17T04:10:30Z",
+      "side": 1,
+      "message": "Yeah, that\u0027s right, it should just be that. You have double parentheses in the above comment though.",
+      "parentUuid": "ff0f0b1f_50bc8968",
+      "revId": "4c04c3ddebf4092ba60ec19c442be7e82129ec54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
