@@ -16,6 +16,24 @@
       "revId": "38c960cefc5b221c8b6bfd0ecceec2028484af70",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff0f0b1f_d08e59cf",
+        "filename": "src/com/android/calendar/event/EditEventFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 933,
+      "author": {
+        "id": 13408
+      },
+      "writtenOn": "2015-07-17T04:08:33Z",
+      "side": 0,
+      "message": "I\u0027ll take a look.",
+      "parentUuid": "ff0f0b1f_103bb138",
+      "revId": "38c960cefc5b221c8b6bfd0ecceec2028484af70",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
