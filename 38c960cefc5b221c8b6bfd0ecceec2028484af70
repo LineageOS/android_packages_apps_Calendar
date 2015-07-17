@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_103bb138",
+        "filename": "src/com/android/calendar/event/EditEventFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 933,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-07-17T03:01:00Z",
+      "side": 0,
+      "message": "Do you need to remove this? \n\nAccording to the docs [1], this is used to save the user input if this activity is lower on the stack than the current activity and the system kills it to reclaim resources. A fringe case, I know, but removing this means the user would lose their data now whereas they would not have before.\n\n[1] http://developer.android.com/reference/android/app/Activity.html#onSaveInstanceState(android.os.Bundle)",
+      "revId": "38c960cefc5b221c8b6bfd0ecceec2028484af70",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

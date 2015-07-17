@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_5004897b",
+        "filename": "src/com/android/calendar/event/EditEventFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-07-17T03:01:00Z",
+      "side": 1,
+      "message": "No longer used as far as I can tell.",
+      "revId": "4c04c3ddebf4092ba60ec19c442be7e82129ec54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff0f0b1f_f0c4bd42",
+        "filename": "src/com/android/calendar/event/EditEventFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 932,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-07-17T03:01:00Z",
+      "side": 1,
+      "message": "If you\u0027re killing the SaveOnDetach feature, you also need to do so here. Looks like this won\u0027t fire anyway because somebody put \"false \u0026\u0026 \u003ccondition\u003e\" above... You might as well just remove mSaveOnDetach completely if that feature is going away.",
+      "revId": "4c04c3ddebf4092ba60ec19c442be7e82129ec54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
