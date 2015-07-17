@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_460def35",
+        "filename": "src/com/android/calendar/event/EditEventView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 670,
+      "author": {
+        "id": 9621
+      },
+      "writtenOn": "2015-07-17T22:41:02Z",
+      "side": 1,
+      "message": "Probably could rename this parameter",
+      "revId": "905a544b3c1b2491fee5c46cddd81c887f7d49f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
