@@ -40,7 +40,7 @@
     <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.mail" />
-    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="23"></uses-sdk>
+    <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="23"></uses-sdk>
 
     <application android:name="CalendarApplication"
             android:label="@string/app_label" android:icon="@mipmap/ic_launcher_calendar"
@@ -134,14 +134,14 @@
 
         <activity android:name=".selectcalendars.SelectVisibleCalendarsActivity"
             android:label="@string/select_visible_calendars_title"
-            android:theme="@android:style/Theme.Material.Light.DarkActionBar"/>
+            android:theme="@style/SettingsTheme"/>
 
         <activity android:name=".selectcalendars.SelectSyncedCalendarsMultiAccountActivity"
             android:label="@string/select_synced_calendars_title"
-            android:theme="@android:style/Theme.Material.Light.DarkActionBar"/>
+            android:theme="@style/SettingsTheme"/>
 
         <activity android:name="CalendarSettingsActivity" android:label="@string/preferences_title"
-            android:theme="@android:style/Theme.Material.Light.DarkActionBar"/>
+            android:theme="@style/SettingsTheme"/>
         <activity android:name="com.android.calendar.RequestPermissionsActivity" >
         </activity>
         <activity android:name="com.android.calendar.RequestPermissionsActivityBase" >
@@ -288,4 +288,3 @@
 
     </application>
 </manifest>
-
