@@ -55,6 +55,8 @@
   <string name="buttons_list_4">Năm</string>
   <!-- Sharing calendar event -->
   <string name="cal_share_intent_title">Gửi sự kiện đến:</string>
+  <string name="cal_export_event_sdcard_title">Xuất ra thẻ nhớ</string>
+  <string name="cal_export_succ_msg">Đã xuất sự kiện thành công: %1s</string>
   <string name="cal_import_menu_title">Nhập sự kiện</string>
   <string name="cal_nothing_to_import">Không có gì để nhập</string>
   <string name="cal_import_error_msg">Nhập vào lịch thất bại</string>

@@ -55,6 +55,8 @@
   <string name="buttons_list_4">Yıl</string>
   <!-- Sharing calendar event -->
   <string name="cal_share_intent_title">Etkinliği gönder:</string>
+  <string name="cal_export_event_sdcard_title">SD karta kaydet</string>
+  <string name="cal_export_succ_msg">Etkinlik başarıyla kaydedildi: %1s</string>
   <string name="cal_import_menu_title">Etkinlik al</string>
   <string name="cal_nothing_to_import">Alınacak bir şey yok</string>
   <string name="cal_import_error_msg">Takvime alma başarısız</string>

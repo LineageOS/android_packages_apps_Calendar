@@ -55,6 +55,8 @@
   <string name="buttons_list_4">שנה</string>
   <!-- Sharing calendar event -->
   <string name="cal_share_intent_title">שלח אירוע אל:</string>
+  <string name="cal_export_event_sdcard_title">ייצוא לכרטיס זיכרון</string>
+  <string name="cal_export_succ_msg">אירוע ייוצא בהצלחה: %1s</string>
   <string name="cal_import_menu_title">ייבוא אירוע</string>
   <string name="cal_nothing_to_import">לא נמצאו פריטים לייבוא</string>
   <string name="cal_import_error_msg">ייבוא ללוח השנה נכשל</string>

@@ -257,8 +257,8 @@
   <!-- Body of alert shown if the user tries to create an event and has no calendars. Users can start adding an account here. [CHAR LIMIT=NONE] -->
   <string name="no_calendars_found">پێش ئەوەی ڕووداوێک زێدە بکەی، ئەبێ لانیکەم ئەژمێرێکی رۆژژمێر بۆ ئامێرەکەت دابنێی بۆ ئەوەی رۆژژمێر بخەیتە بەر چاو. دەست لێدە بۆ زێدە کردنی ئەژمێرێک (ئەگەر ئەژمێرێکت زێدە کردووە، چاوەڕوان بە تاکو هاوکاتسازی کۆتایی دێت و دووبارە هەوڵ بدەوە). یان دەست لێدە بۆ پاشگەزبوونەوە و دڵنیابوون لەوەی کە لانیکەم یەک رۆژژمێر دیار و بەرچاوە.</string>
   <!-- Body of dialog prompting the user to create an account.[CHAR LIMIT=NONE] -->
-  <string name="create_an_account_desc">"\"\"\"رۆژژمێر لەگەڵ ئەژمێری گوگڵ باشتر ئیش ئەکات.\n\n\u2022 دەستی بخەرەسەر لە ناو هەر وێبگەڕێک    
-\n\u2022 نهێنییانە ڕووداوەکانت بپارێزە\"\"\""</string>
+  <string name="create_an_account_desc">"\"\"\"\"رۆژژمێر لەگەڵ ئەژمێری گوگڵ باشتر ئیش ئەکات.\n\n\u2022 دەستی بخەرەسەر لە ناو هەر وێبگەڕێک    
+\n\u2022 نهێنییانە ڕووداوەکانت بپارێزە\"\"\"\""</string>
   <!-- Title of a button shown when there is no account available and the system prompt a user to add one. [CHAR LIMIT=none] -->
   <string name="add_account">زیادکردنی هەژمار</string>
   <!-- View Event -->
