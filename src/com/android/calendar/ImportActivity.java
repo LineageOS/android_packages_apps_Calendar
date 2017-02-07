@@ -183,7 +183,12 @@ public class ImportActivity extends Activity {
 
     public static boolean hasThingsToImport(Context context) {
         File folder = EventInfoFragment.EXPORT_SDCARD_DIRECTORY;
-        return folder.exists() && folder.list().length > 0;
+        if (folder.exists()) {
+            String[] list = folder.list();
+            if (list != null && list.length > 0) {
+                return true;
+            }
+        }
+        return false;
     }
-
 }
