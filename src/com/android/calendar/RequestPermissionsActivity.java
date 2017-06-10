@@ -28,8 +28,14 @@ import android.app.Activity;
 public class RequestPermissionsActivity extends RequestPermissionsActivityBase {
 
     private static final String[] REQUIRED_PERMISSIONS = new String[] {
-    // "Calendar" group. Without this permission.
-    permission.READ_CALENDAR };
+        permission.READ_CALENDAR // Calendar group
+    };
+
+    private static final String[] DESIRED_PERMISSIONS = new String[] {
+        permission.READ_CALENDAR, // Calendar group
+        permission.READ_EXTERNAL_STORAGE,
+        permission.WRITE_EXTERNAL_STORAGE
+    };
 
     @Override
     protected String[] getRequiredPermissions() {
@@ -38,7 +44,7 @@ public class RequestPermissionsActivity extends RequestPermissionsActivityBase {
 
     @Override
     protected String[] getDesiredPermissions() {
-        return new String[] { permission.READ_CALENDAR };
+        return DESIRED_PERMISSIONS;
     }
 
     public static boolean startPermissionActivity(Activity activity) {
