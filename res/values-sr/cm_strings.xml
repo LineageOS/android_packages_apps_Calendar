@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="preferences_alerts_custom_snooze_delay_title">Питај за време одлагања подсетника</string>
   <!-- Summaries for using custom snooze delays -->
-  <string name="preferences_alerts_custom_snooze_delay_summary_on">Питај за време одлагања подсетника када се користи одлагање подсетника</string>
+  <string name="preferences_alerts_custom_snooze_delay_summary_on">Ручно уносите време при одлагању подсетника.</string>
   <string name="preferences_alerts_custom_snooze_delay_summary_off">Увек користи подразумевано одлагање</string>
   <!-- Title of custom snooze delay dialog -->
   <string name="snooze_delay_dialog_title">Подеси кашњење одлагања</string>
