@@ -16,7 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- This is the label underneath the icon for Calendar -->
-  <string name="app_label">Calendariu</string>
   <!-- Shared Labels. These labels are shared among the activities. -->
   <!-- This is the label for the title or name of an event -->
   <!-- This is the label for the location of an event -->
@@ -92,7 +91,6 @@
          or remove selected calendars. -->
   <!-- This is a label on a menu item. Pressing this menu item allows the
          user to view and edit his Settings (or Preferences) -->
-  <string name="menu_preferences">"Axustes"</string>
   <!-- This is a label on a menu item. Pressing this menu item allows the
          user to select the calendars to display [CHAR LIMIT=20] -->
   <!-- This is a label on a menu item. Pressing this menu item allows the
@@ -114,7 +112,6 @@
   <!-- Message displayed to user when an account with Calendars is not being auto-synced
         [CHAR LIMIT=120]-->
   <!-- Label on button that takes user to the Accounts and Sync settings page [CHAR LIMIT=60] -->
-  <string name="accounts">Cuentes y sincronización</string>
   <!-- Select Synced Calendars activity -->
   <!-- Select the set of calendars to sync [CHAR LIMIT=60] -->
   <!-- Select the set of calendars to sync [CHAR LIMIT=60] -->
@@ -142,7 +139,6 @@
          a new event -->
   <!-- Create event dialog -->
   <!-- Create event dialog save button [CHAR LIMIT=10] -->
-  <string name="create_event_dialog_save">Guardar</string>
   <!-- The alert toast is not actually being displayed for some reason. -->
   <!-- the title of the alert/notification activity -->
   <!-- Notification window messages: -->
@@ -223,7 +219,6 @@
   <!-- A menu item for deleting an event -->
   <!-- The button label for saving an event -->
   <!-- The button label for discarding changes to an event -->
-  <string name="discard_label">Encaboxar</string>
   <!-- Button labels on expanded notification reminders: -->
   <!-- The button label for making the reminder alarms go away temporarily.
          The reminder alarms will fire off again in 5 minutes. -->
@@ -282,13 +277,10 @@
   <!-- This the title of a menu for General Preferences.
          Pressing the menu item lets user to view and edit his general settings
          (or preferences) [CHAR LIMIT=30] -->
-  <string name="menu_general_preferences">Axustes xenerales</string>
   <!-- This the title of a menu for "About Calendar" Preferences.
          Pressing the menu item lets user to view the current settings
          [CHAR LIMIT=30] -->
-  <string name="menu_about_preferences">Tocante al Calendariu</string>
   <!-- This is the title of the screen for setting user preferences. -->
-  <string name="preferences_title">"Axustes"</string>
   <!-- This is the title of a section in the Settings screen for settings
          related to viewing calendar events -->
   <!-- This is the title of a section in the Settings screen for settings
@@ -306,12 +298,10 @@
   <!-- Settings dialog label that specifies when the phone should vibrate -->
   <!-- The old value for enabling vibration. used only for migrating -->
   <!-- Title of ringtone selector dialog -->
-  <string name="preferences_alerts_ringtone_title">Soníu</string>
   <!-- Title of check box label to enable or disable pop-up notifications -->
   <!-- List item label for setting the default number of reminder minutes -->
   <!-- Title of dialog for setting the default number of reminder minutes -->
   <!-- Default value for the number of reminder minutes -->
-  <string name="preferences_default_reminder_default">10</string>
   <!-- Settings check box label to keep Calendar in a fixed 'home' time zone [CHAR LIMIT = 18] -->
   <!-- Settings description of what setting Calendar to use a fixed 'home' time
         zone does [CHAR LIMIT = 60]-->
@@ -320,7 +310,6 @@
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <!-- Title of the settings item to show week number in week view [CHAR LIMIT=40] -->
   <!-- This is the title of a section in the Settings screen for "About" this application -->
-  <string name="preferences_about_title">Tocante a</string>
   <!-- Build version of the application -->
   <!-- Widget -->
   <!-- Title for calendar gadget when displayed in list of all other gadgets -->
@@ -330,7 +319,6 @@
   <!-- Text to show on gadget when an event is currently in progress -->
   <!-- Text to show on gadget when an all-day event is in progress -->
   <!-- DO NOT TRANSLATE -->
-  <string name="tardis">TARDIS</string>
   <!-- Experimental settings [CHAR LIMIT = 30]-->
   <!-- Reminders settings [CHAR LIMIT = 30]-->
   <!-- Preference label for when to skip reminders [CHAR LIMIT = 25] -->
@@ -339,8 +327,8 @@
   <!-- Preference description for quiet hours [CHAR LIMIT = NONE]-->
   <!-- Preference label for quiet hours start time [CHAR LIMIT = 25]-->
   <!-- Preference label for quiet hours end time [CHAR LIMIT = 25]-->
+  <string name="preferences_reminders_quiet_hours_end">Fin d\'hores de silenciu</string>
   <!-- Preferences used for debugging purposes [CHAR LIMIT = 30]-->
-  <string name="preferences_debug_category">Depuración</string>
   <!-- Send a copy of the database to developers for debugging [CHAR LIMIT="NONE"] -->
   <!-- Displayed in email address autocomplete list when searching for contacts
          in corporate directories. Example:  "Searching bigcompany.com..." [CHAR LIMIT=64] -->
