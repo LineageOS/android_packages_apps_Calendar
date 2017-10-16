@@ -230,11 +230,12 @@ public class CalendarViewAdapter extends BaseAdapter {
                     break;
                 case ViewType.WEEK:
                     lunarInfo.setVisibility(View.GONE);
+                    weekDay.setVisibility(View.VISIBLE);
                     if (Utils.getShowWeekNumber(mContext)) {
-                        weekDay.setVisibility(View.VISIBLE);
-                        weekDay.setText(buildWeekNum());
+                        weekDay.setText(mContext.getString(R.string.week_of_year,
+                                buildWeekNum(), buildYearDate()));
                     } else {
-                        weekDay.setVisibility(View.GONE);
+                        weekDay.setText(buildYearDate());
                     }
                     date.setText(buildWeekDate());
                     break;
@@ -486,8 +487,7 @@ public class CalendarViewAdapter extends BaseAdapter {
     }
 
     private String buildWeekNum() {
-        int week = Utils.getWeekNumberFromTime(mMilliTime, mContext);
-        return mContext.getResources().getQuantityString(R.plurals.weekN, week, week);
+        return String.valueOf(Utils.getWeekNumberFromTime(mMilliTime, mContext));
     }
 
     private void buildLunarInfo() {
