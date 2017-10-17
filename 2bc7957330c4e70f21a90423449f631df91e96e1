@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "57f8a453_efc79008",
+        "filename": "src/com/android/calendar/CalendarViewAdapter.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 237,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-10-17T18:47:29Z",
+      "side": 1,
+      "message": "weekDay.setText(mContext.getResources().getString(\n                            R.string.week_of_year, Utils.getWeekNumberFromTime(\n                            mMilliTime, mContext), buildYearDate());",
+      "range": {
+        "startLine": 235,
+        "startChar": 0,
+        "endLine": 237,
+        "endChar": 69
+      },
+      "revId": "2bc7957330c4e70f21a90423449f631df91e96e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
