@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cf844ece_5bc8d06c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2017-10-17T16:39:17Z",
+      "side": 1,
+      "message": "perhaps: Show week number in week view  ?\n(assuming this is what it\u0027s doing)",
+      "revId": "d92c49393856ed58209e78b2fad66201b42754cd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
