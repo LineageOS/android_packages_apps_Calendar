@@ -16,6 +16,24 @@
       "revId": "19a7f43d55f2c3758309a44116cf3d24a74fc2e9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ab5fd0b5_ef238f37",
+        "filename": "src/com/android/calendar/CalendarViewAdapter.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 491,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-10-18T17:41:07Z",
+      "side": 1,
+      "message": "Yes, but I\u0027d have to wrap the code to another line. If you prefer that, I had that in the last patchset.",
+      "parentUuid": "fd96d7b9_d821b069",
+      "revId": "19a7f43d55f2c3758309a44116cf3d24a74fc2e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
