@@ -145,6 +145,10 @@ public class EditEventActivity extends AbstractCalendarActivity {
             info.endTime = new Time();
             if (allDay) {
                 info.endTime.timezone = Time.TIMEZONE_UTC;
+                if ((end - begin) > (24 * 60 * 60 * 1000)) {
+                    // Multi-day all-day events are off by one day
+                    end += 24 * 60 * 60 * 1000;
+                }
             }
             info.endTime.set(end);
         }
