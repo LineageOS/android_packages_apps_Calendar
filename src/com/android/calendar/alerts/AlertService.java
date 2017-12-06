@@ -1098,6 +1098,9 @@ public class AlertService extends Service {
 
     @Override
     public void onCreate() {
+        sReceivedProviderReminderBroadcast = Utils.getSharedPreference(this,
+                                        PROVIDER_REMINDER_PREF_KEY, false);
+
         HandlerThread thread = new HandlerThread("AlertService",
                 Process.THREAD_PRIORITY_BACKGROUND);
         thread.start();
