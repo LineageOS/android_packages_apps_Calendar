@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "53cc03b1_5deac11c",
+        "filename": "src/com/android/calendar/alerts/AlertService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 204,
+      "author": {
+        "id": 13897
+      },
+      "writtenOn": "2017-12-07T20:39:16Z",
+      "side": 1,
+      "message": "Setting sReceivedProviderReminderBroadcast from onCreate() looks wrong to me. Maybe this should be:\n\n    (sReceivedProviderReminderBroadcast \u003d\u003d null || !sReceivedProviderReminderBroadcast) \u0026\u0026 action.equals(android.provider.CalendarContract.ACTION_EVENT_REMINDER)\n\nRationale: the first action is neither EVENT_REMINDER nor EVENT_REMINDER_APP_ACTION. As consequence we schedule a new EVENT_REMINDER_APP_ACTION at the end of this method since sReceivedProviderReminderBroadcast is still null.\n\nWe will then receive EVENT_REMINDER without cancelling the EVENT_REMINDER_APP_ACTION we scheduled.\n\nThis means we will receive both the intent for the first calendar event. Since sReceivedProviderReminderBroadcast will be true when we will receive EVENT_REMINDER_APP_ACTION, we will not schedule a new EVENT_REMINDER_APP_ACTION, however we will call updateAlertNotification(), causing the issue mentioned in the commit message.\n\nMaybe an even better solution would be canceling the extra alarm we set.",
+      "range": {
+        "startLine": 204,
+        "startChar": 16,
+        "endLine": 204,
+        "endChar": 86
+      },
+      "revId": "f08f3503cda4a127923be0f2257e0faf8bc8d3b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
