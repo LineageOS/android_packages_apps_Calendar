@@ -30,8 +30,12 @@ LOCAL_RESOURCE_DIR += \
 
 LOCAL_PACKAGE_NAME := Calendar
 
+ifdef LOCAL_JACK_ENABLED
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags \
                              ../../../frameworks/opt/datetimepicker/proguard.flags
+else
+LOCAL_PROGUARD_ENABLED := disabled
+endif
 
 LOCAL_AAPT_FLAGS := \
     --auto-add-overlay \
