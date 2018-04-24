@@ -155,7 +155,7 @@
         <item name="android:paddingLeft">16dip</item>
     </style>
 
-    <style name="EditEvent_Layout" parent="android:Theme.Holo.Light">
+    <style name="EditEvent_Layout" parent="android:Theme.Material.Light">
     </style>
 
     <style name="TextAppearance.Date_Range_Title">
@@ -163,11 +163,11 @@
         <item name="android:textColor">@color/calendar_date_range_color</item>
     </style>
 
-    <style name="CalendarTheme" parent="android:Theme.Holo.Light">
+    <style name="CalendarTheme" parent="android:Theme.Material.Light">
         <item name="android:windowContentOverlay">@null</item>
     </style>
 
-    <style name="CalendarTheme.WithActionBar" parent="android:Theme.Holo.Light">
+    <style name="CalendarTheme.WithActionBar" parent="android:Theme.Material.Light">
         <item name="android:windowNoTitle">false</item>
         <item name="android:windowActionBar">true</item>
         <item name="android:windowBackground">@color/background_color</item>
