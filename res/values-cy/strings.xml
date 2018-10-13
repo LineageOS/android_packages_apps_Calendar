@@ -513,9 +513,9 @@
   <string name="preferences_use_home_tz_title">Defnyddio cylchfa amser gartref</string>
   <!-- Settings description of what setting Calendar to use a fixed 'home' time
         zone does [CHAR LIMIT = 60]-->
-  <string name="preferences_use_home_tz_descrip">Mae\'n dangos calendrau ac amseroedd digwyddiadau yn dy gylch amser cartref wrth deithio</string>
+  <string name="preferences_use_home_tz_descrip">Mae\'n dangos calendrau ac amseroedd digwyddiadau yn cylchfa amser adref wrth deithio</string>
   <!-- Settings title for selecting a 'home' time zone to display Calendar in [CHAR LIMIT = 18] -->
-  <string name="preferences_home_tz_title">Cylchfa amser cartref</string>
+  <string name="preferences_home_tz_title">Cylchfa amser adref</string>
   <!-- DO NOT TRANSLATE -->
   <!-- Title of the settings item to show week number in week view [CHAR LIMIT=40] -->
   <string name="preferences_show_week_num_title">Dangos rhif yr wythnos</string>
