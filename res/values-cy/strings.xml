@@ -115,7 +115,7 @@
     <!-- Menu items: -->
     <!-- This is a label on a context menu item. Pressing this menu item to initiate
         syncing of your Calendar data with the server. [CHAR LIMIT=11] -->
-    <string name="calendar_refresh">\"Cysoni\"</string>
+    <string name="calendar_refresh"> \"Cysoni\"</string>
     <!-- This is a label on a context menu item. Pressing this menu item displays the
          Agenda view. -->
     <!-- This is a label on a context menu item. Pressing this menu item displays the
@@ -176,10 +176,10 @@
     <!-- not Synced or visible status message -->
     <!-- Synced status message displayed when the given calendar is stored/synced on the device
         [CHAR LIMIT=60] -->
-    <string name="synced">wedi\'i gysoni</string>
+    <string name="synced"> wedi\'i gysoni</string>
     <!-- Not synced status message displayed when the given calendar is not stored/synced on the
         device [CHAR LIMIT=60] -->
-    <string name="not_synced">heb ei gysoni</string>
+    <string name="not_synced"> heb ei gysoni</string>
     <!-- Message displayed to user when an account with Calendars is not being auto-synced
         [CHAR LIMIT=120]-->
     <string name="acct_not_synced">Dyw\'r cyfrif hwn ddim yn cael ei gysoni, felly mae\'n bosib na fydd dy galendrau yn gyfoes.</string>
