@@ -172,7 +172,7 @@
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_mon">
-        <item>\"ھەر ئاينىڭ بىرىنچى دۈشەنبە كۈنى\"</item>
+        <item> \"ھەر ئاينىڭ بىرىنچى دۈشەنبە كۈنى\"</item>
         <item>ھەر ئاينىڭ ئىككىنچى دۈشەنبە كۈنى</item>
         <item>ھەر ئاينىڭ ئۈچىنچى دۈشەنبە كۈنى</item>
         <item>ھەر ئاينىڭ تۆتىنچى دۈشەنبە كۈنى</item>

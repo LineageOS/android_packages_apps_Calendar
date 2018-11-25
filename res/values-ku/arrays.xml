@@ -124,7 +124,7 @@
          was created on the phone until that event has been synced to the server.
      -->
     <string-array name="delete_repeating_labels_no_selected">
-        <item>وamp; دواتر</item>
+        <item> وamp; دواتر</item>
         <item>هەموو داهێنانەکان</item>
     </string-array>
     <!-- The corresponding array indices are defined in EventInfoActivity.java -->
@@ -155,7 +155,7 @@
         <item>دوباره‌ كردنه‌وه‌ی ڕۆژانه‌</item>
         <item>دوباره‌ كردنه‌وه‌ی هه‌فتانه‌</item>
         <item>دوباره‌ كردنه‌وه‌ی مانگانه‌</item>
-        <item>دوباره‌ كردنه‌وه‌ی ساڵانه‌</item>
+        <item> دوباره‌ كردنه‌وه‌ی ساڵانه‌</item>
     </string-array>
     <!-- The following sets of strings describe a monthly recurring event, which will repeat
          on the Nth WEEKDAY of every month. For example, the 3rd Monday of every month, or

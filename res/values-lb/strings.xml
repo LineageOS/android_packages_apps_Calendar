@@ -158,7 +158,7 @@
     <string name="synced"> synchroniséiert</string>
     <!-- Not synced status message displayed when the given calendar is not stored/synced on the
         device [CHAR LIMIT=60] -->
-    <string name="not_synced">net synchroniséiert</string>
+    <string name="not_synced"> net synchroniséiert</string>
     <!-- Message displayed to user when an account with Calendars is not being auto-synced
         [CHAR LIMIT=120]-->
     <string name="acct_not_synced">Dëse Kont gëtt net synchroniséiert. Deng Kalennere si vläicht net aktuell.</string>
