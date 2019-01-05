@@ -685,12 +685,12 @@
     <plurals name="recurrence_interval_yearly">
         <item quantity="zero">Pob <xliff:g id="count">%d</xliff:g> blynyddoedd</item>
         <!-- Singular form [CHAR LIMIT=30] -->
-        <item quantity="one">Pob <xliff:g id="count">%d</xliff:g> blynedd</item>
+        <item quantity="one">Pob <xliff:g id="count">%d</xliff:g> flwyddyn</item>
         <item quantity="two">Pob <xliff:g id="count">%d</xliff:g> flynedd</item>
         <item quantity="few">Pob <xliff:g id="count">%d</xliff:g> blynedd</item>
         <item quantity="many">Pob <xliff:g id="count">%d</xliff:g> blynedd</item>
         <!-- Plural form [CHAR LIMIT=30] -->
-        <item quantity="other">Pob <xliff:g id="count">%d</xliff:g> blynedd</item>
+        <item quantity="other">Pob <xliff:g id="count">%d</xliff:g> mlynedd</item>
     </plurals>
     <!-- Repeat an monthly event on the same day of every month [CHAR LIMIT=20] -->
     <string name="recurrence_month_pattern_by_day">ar yr un diwrnod pob mis</string>
