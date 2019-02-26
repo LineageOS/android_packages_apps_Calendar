@@ -260,6 +260,7 @@
     <!-- Title for event color picker dialog -->
     <string name="event_color_picker_dialog_title">Color del eventu</string>
     <!-- Label for button which sets event color to default calendar color -->
+    <string name="event_color_set_to_default">Camudar a color predetermináu del calendariu</string>
     <!-- Title for calendar color picker dialog -->
     <string name="calendar_color_picker_dialog_title">Color del calendariu</string>
     <!-- Description for calendar color squares, which bring up the color picker. -->
@@ -380,6 +381,10 @@
     <string name="every_weekday">"Ente selmana (Llu\u2013Vie)"</string>
     <!-- A description for an event that repeats weekly on some day of the week. For example,
          'Weekly on Tuesday' or Every 2 weeks on Monday, Tuesday.  [CHAR LIMIT=25]-->
+    <plurals name="weekly">
+        <item quantity="one">Selmanalmente\'l <xliff:g id="days_of_week">%2$s</xliff:g></item>
+        <item quantity="other">Cada <xliff:g id="number">%1$d</xliff:g> selmanes el <xliff:g id="days_of_week">%2$s</xliff:g></item>
+    </plurals>
     <!-- The common portion of a string describing how often an event repeats,
          example: 'Monthly (on day 2)' -->
     <string name="monthly">Mensualmente</string>

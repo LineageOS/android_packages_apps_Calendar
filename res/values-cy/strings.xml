@@ -369,13 +369,13 @@
     <!-- Button labels on expanded notification reminders: -->
     <!-- The button label for making the reminder alarms go away temporarily.
          The reminder alarms will fire off again in 5 minutes. -->
-    <string name="snooze_all_label">"Hepian y cwbl"</string>
+    <string name="snooze_all_label">"Oedi'r cwbl"</string>
     <!-- The button label for dismissing all the current reminder alarms. This
          causes them to disappear from the notification screen. -->
-    <string name="dismiss_all_label">"Wfftio'r cwbl"</string>
+    <string name="dismiss_all_label">"Diddymu'r cwbl"</string>
     <!-- The button label for making the reminder alarms go away temporarily
          and re-fire in 5 minutes. [CHAR LIMIT=12]-->
-    <string name="snooze_label">"Hepian (5 mun.)"</string>
+    <string name="snooze_label">"Hepian (5 mun)"</string>
     <!-- Repetition dialog options: -->
     <!-- A label in a multiple-choice list for the specifying that an event does
          not repeat -->
@@ -544,6 +544,7 @@
     <!-- Text to show on gadget when an event is currently in progress -->
     <!-- Text to show on gadget when an all-day event is in progress -->
     <!-- DO NOT TRANSLATE -->
+    <string name="tardis">TARDIS</string>
     <!-- Experimental settings [CHAR LIMIT = 30]-->
     <string name="preferences_experimental_category">Arbrofol</string>
     <!-- Reminders settings [CHAR LIMIT = 30]-->
@@ -608,7 +609,7 @@
     <!-- Calendar notification [CHAR LIMIT = NONE]-->
     <string name="acessibility_cal_notification">Hysbysiad Calendr</string>
     <!-- Calendar notification snooze button [CHAR LIMIT = NONE]-->
-    <string name="acessibility_snooze_notification">Hysbysiad Hepian</string>
+    <string name="acessibility_snooze_notification">Oedi Hysbysiad</string>
     <!-- Calendar notification email button [CHAR LIMIT = NONE]-->
     <string name="accessibility_email_notification">E-bostio gwesteion</string>
     <!-- A "new event" hint for the user when selecting a specific hour in the day view [CHAR LIMIT = 30]-->

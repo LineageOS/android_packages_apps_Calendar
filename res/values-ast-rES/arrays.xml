@@ -56,7 +56,7 @@
          [CHAR LIMIT=12]
     -->
     <string-array name="preferences_default_reminder_labels">
-        <item>None</item>
+        <item>Nengún</item>
         <item>0 minutos</item>
         <item>1 minutu</item>
         <item>5 minutos</item>
