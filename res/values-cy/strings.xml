@@ -168,7 +168,7 @@
     <string name="dismiss_all_label">"Diddymu'r cwbl"</string>
     <string name="snooze_label">"Hepian (5 mun)"</string>
     <string name="does_not_repeat">Digwyddiad un-tro</string>
-    <string name="endByDate">; tan <xliff:g id="date">%s</xliff:g></string>
+    <string name="endByDate">; hyd at <xliff:g id="date">%s</xliff:g></string>
     <plurals name="endByCount">
         <item quantity="zero">; am <xliff:g id="number">%d</xliff:g> troeon</item>
         <item quantity="one">; am un tro</item>
@@ -330,8 +330,8 @@
     </plurals>
     <string name="recurrence_month_pattern_by_day">ar yr un diwrnod pob mis</string>
     <string name="recurrence_end_continously">Am byth</string>
-    <string name="recurrence_end_date_label">Tan ddyddiad</string>
-    <string name="recurrence_end_date">Tan <xliff:g id="date">%s</xliff:g></string>
+    <string name="recurrence_end_date_label">Hyd at ddyddiad</string>
+    <string name="recurrence_end_date">Hyd at <xliff:g id="date">%s</xliff:g></string>
     <string name="recurrence_end_count_label">Ar gyfer nifer benodol o ddigwyddiadau</string>
     <plurals name="recurrence_end_count">
         <item quantity="zero">Ar gyfer <xliff:g id="event_count">%d</xliff:g> digwyddiadau</item>
