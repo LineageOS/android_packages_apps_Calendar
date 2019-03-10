@@ -16,22 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- read_calendar permission -->
-  <!-- No maps found in phone -->
-  <!-- Toast message displayed when ics file to share an event can't be generated -->
-  <!-- Check box label for using custom snooze delays -->
-  <!-- Summaries for using custom snooze delays -->
-  <!-- Title of custom snooze delay dialog -->
-  <!-- List item label for setting the default snooze delay -->
-  <!-- Title of dialog for setting the default snooze delay -->
-  <!-- Default value for the default snooze delay (in minutes) -->
-  <!-- Delete events -->
-  <!-- Label values for the default start page preference. -->
-  <!-- Strings for buttons in drop down menu -->
-  <string name="buttons_list_0">Usuku</string>
-  <string name="buttons_list_1">Iviki</string>
-  <string name="buttons_list_2">Inyanga</string>
-  <string name="buttons_list_3">Ajenda</string>
-  <!-- Sharing calendar event -->
-  <!-- String defining format for displaying week of the year -->
+    <string name="buttons_list_0">Usuku</string>
+    <string name="buttons_list_1">Iviki</string>
+    <string name="buttons_list_2">Inyanga</string>
+    <string name="buttons_list_3">Ajenda</string>
 </resources>

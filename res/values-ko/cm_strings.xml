@@ -16,56 +16,42 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- read_calendar permission -->
-  <string name="on_permission_read_calendar">필요한 권한이 비활성화되어 있습니다.</string>
-  <!-- No maps found in phone -->
-  <string name="no_map">설치된 지도 앱이 없습니다</string>
-  <!-- Toast message displayed when ics file to share an event can't be generated -->
-  <string name="error_generating_ics">일정을 공유하는 도중에 문제가 발생했습니다</string>
-  <string name="share_label">공유</string>
-  <!-- Check box label for using custom snooze delays -->
-  <string name="preferences_alerts_custom_snooze_delay_title">알림을 일시중지할 시간 묻기</string>
-  <!-- Summaries for using custom snooze delays -->
-  <string name="preferences_alerts_custom_snooze_delay_summary_on">알림을 일시중지할 시간을 항상 물어보기</string>
-  <string name="preferences_alerts_custom_snooze_delay_summary_off">알림 일시중지 시간으로 항상 기본값 사용</string>
-  <!-- Title of custom snooze delay dialog -->
-  <string name="snooze_delay_dialog_title">일시중지 시간 설정</string>
-  <!-- List item label for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_title">기본 일시중지 시간</string>
-  <!-- Title of dialog for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_dialog">기본 일시중지 시간</string>
-  <!-- Default value for the default snooze delay (in minutes) -->
-  <!-- Delete events -->
-  <string name="events_delete">일정 삭제</string>
-  <string name="action_select_all">모두 선택</string>
-  <string name="action_select_none">모두 선택 취소</string>
-  <string name="action_delete">완료</string>
-  <string name="all_events">모든 일정</string>
-  <string name="no_events">일정이 없습니다</string>
-  <string name="evt_del_dlg_title">일정을 삭제할까요?</string>
-  <string name="evt_del_dlg_msg_selected">선택된 일정이 삭제될 것입니다</string>
-  <string name="evt_del_dlg_msg_all">모든 일정이 삭제될 것입니다</string>
-  <string name="no_events_selected">선택된 일정이 없습니다</string>
-  <plurals name="events_selected">
-    <item quantity="other">%1$d개의 일정이 선택됨</item>
-  </plurals>
-  <!-- Label values for the default start page preference. -->
-  <string name="default_start_title">기본 보기</string>
-  <string name="default_start_last">이전에 사용한 보기</string>
-  <!-- Strings for buttons in drop down menu -->
-  <string name="buttons_list_0">일</string>
-  <string name="buttons_list_1">주</string>
-  <string name="buttons_list_2">월</string>
-  <string name="buttons_list_3">일정 목록</string>
-  <string name="buttons_list_4">연도</string>
-  <!-- Sharing calendar event -->
-  <string name="cal_share_intent_title">일정 보내기:</string>
-  <string name="cal_export_event_sdcard_title">SD 카드로 내보내기</string>
-  <string name="cal_export_succ_msg">일정이 성공적으로 내보내짐: %1s</string>
-  <string name="cal_import_menu_title">일정 가져오기</string>
-  <string name="cal_nothing_to_import">가져올 일정이 없습니다</string>
-  <string name="cal_import_error_msg">일정을 가져오지 못했습니다</string>
-  <string name="cal_pick_ics">가져올 파일 선택</string>
-  <!-- String defining format for displaying week of the year -->
-  <string name="week_of_year"><xliff:g id="year">%2$s</xliff:g>년의 <xliff:g id="number">%1$d</xliff:g>번째 주</string>
+    <string name="on_permission_read_calendar">필요한 권한이 비활성화되어 있습니다.</string>
+    <string name="no_map">설치된 지도 앱이 없습니다</string>
+    <string name="error_generating_ics">일정을 공유하는 도중에 문제가 발생했습니다</string>
+    <string name="share_label">공유</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">알림을 일시중지할 시간 묻기</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">알림을 일시중지할 시간을 항상 물어보기</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">알림 일시중지 시간으로 항상 기본값 사용</string>
+    <string name="snooze_delay_dialog_title">일시중지 시간 설정</string>
+    <string name="preferences_default_snooze_delay_title">기본 일시중지 시간</string>
+    <string name="preferences_default_snooze_delay_dialog">기본 일시중지 시간</string>
+    <string name="events_delete">일정 삭제</string>
+    <string name="action_select_all">모두 선택</string>
+    <string name="action_select_none">모두 선택 취소</string>
+    <string name="action_delete">완료</string>
+    <string name="all_events">모든 일정</string>
+    <string name="no_events">일정이 없습니다</string>
+    <string name="evt_del_dlg_title">일정을 삭제할까요?</string>
+    <string name="evt_del_dlg_msg_selected">선택된 일정이 삭제될 것입니다</string>
+    <string name="evt_del_dlg_msg_all">모든 일정이 삭제될 것입니다</string>
+    <string name="no_events_selected">선택된 일정이 없습니다</string>
+    <plurals name="events_selected">
+        <item quantity="other">%1$d개의 일정이 선택됨</item>
+    </plurals>
+    <string name="default_start_title">기본 보기</string>
+    <string name="default_start_last">이전에 사용한 보기</string>
+    <string name="buttons_list_0">일</string>
+    <string name="buttons_list_1">주</string>
+    <string name="buttons_list_2">월</string>
+    <string name="buttons_list_3">일정 목록</string>
+    <string name="buttons_list_4">연도</string>
+    <string name="cal_share_intent_title">일정 보내기:</string>
+    <string name="cal_export_event_sdcard_title">SD 카드로 내보내기</string>
+    <string name="cal_export_succ_msg">일정이 성공적으로 내보내짐: %1s</string>
+    <string name="cal_import_menu_title">일정 가져오기</string>
+    <string name="cal_nothing_to_import">가져올 일정이 없습니다</string>
+    <string name="cal_import_error_msg">일정을 가져오지 못했습니다</string>
+    <string name="cal_pick_ics">가져올 파일 선택</string>
+    <string name="week_of_year"><xliff:g id="year">%2$s</xliff:g>년의 <xliff:g id="number">%1$d</xliff:g>번째 주</string>
 </resources>

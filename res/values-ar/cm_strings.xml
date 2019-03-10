@@ -16,50 +16,47 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- read_calendar permission -->
-  <!-- No maps found in phone -->
-  <!-- Toast message displayed when ics file to share an event can't be generated -->
-  <string name="error_generating_ics">حدثت مشكلة أثناء مشاركة الحدث</string>
-  <string name="share_label">مشاركة</string>
-  <!-- Check box label for using custom snooze delays -->
-  <string name="preferences_alerts_custom_snooze_delay_title">طلب فاصل تأخير الغفوة الخاص بالتذكير</string>
-  <!-- Summaries for using custom snooze delays -->
-  <string name="preferences_alerts_custom_snooze_delay_summary_on">طلب فاصل غفوة كلما ظهرت تذكيرات الغفوة</string>
-  <string name="preferences_alerts_custom_snooze_delay_summary_off">استخدم دائماً فاصل الغفوة الافتراضي</string>
-  <!-- Title of custom snooze delay dialog -->
-  <string name="snooze_delay_dialog_title">تعيين فاصل الغفوة</string>
-  <!-- List item label for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_title">وقت فاصل التأخير الافتراضي</string>
-  <!-- Title of dialog for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_dialog">فاصل غفوة افتراضي</string>
-  <!-- Default value for the default snooze delay (in minutes) -->
-  <!-- Delete events -->
-  <string name="events_delete">حذف الأحداث</string>
-  <string name="action_select_all">تحديد الكل</string>
-  <string name="action_select_none">إلغاء تحديد الكل</string>
-  <string name="action_delete">تم</string>
-  <string name="all_events">كل الأحداث</string>
-  <string name="no_events">لا يوجد أحداث متاحة</string>
-  <string name="evt_del_dlg_title">حذف الأحداث؟</string>
-  <string name="evt_del_dlg_msg_selected">سيتم حذف الأحداث المحددة</string>
-  <string name="evt_del_dlg_msg_all">سيتم حذف كل الأحداث</string>
-  <string name="no_events_selected">عدم تحديد أحداث</string>
-  <!-- Label values for the default start page preference. -->
-  <string name="default_start_title">العرض الافتراضي</string>
-  <string name="default_start_last">العرض المستخدم سابقاً</string>
-  <!-- Strings for buttons in drop down menu -->
-  <string name="buttons_list_0">يوم</string>
-  <string name="buttons_list_1">أسبوع</string>
-  <string name="buttons_list_2">شهر</string>
-  <string name="buttons_list_3">أجندة</string>
-  <string name="buttons_list_4">السنة</string>
-  <!-- Sharing calendar event -->
-  <string name="cal_share_intent_title">إرسال الحدث إلى:</string>
-  <string name="cal_export_event_sdcard_title">التصدير إلى بطاقة الذاكرة SD</string>
-  <string name="cal_export_succ_msg">تم تصدير الحدث بنجاح: %1s</string>
-  <string name="cal_import_menu_title">استيراد الحدث</string>
-  <string name="cal_nothing_to_import">لا شيء لاستيراده</string>
-  <string name="cal_import_error_msg">فشل الاستيراد إلى التقويم</string>
-  <string name="cal_pick_ics">اختر ملفاً للاستيراد</string>
-  <!-- String defining format for displaying week of the year -->
+    <string name="on_permission_read_calendar">لقد قمت بتعطيل إذن مطلوب.</string>
+    <string name="no_map">لا يوجد تطبيق خرائط مثبت</string>
+    <string name="error_generating_ics">حدثت مشكلة أثناء مشاركة الحدث</string>
+    <string name="share_label">مشاركة</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">طلب فاصل تأخير الغفوة الخاص بالتذكير</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">طلب فاصل غفوة كلما ظهرت تذكيرات الغفوة</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">استخدم دائماً فاصل الغفوة الافتراضي</string>
+    <string name="snooze_delay_dialog_title">تعيين فاصل الغفوة</string>
+    <string name="preferences_default_snooze_delay_title">وقت فاصل التأخير الافتراضي</string>
+    <string name="preferences_default_snooze_delay_dialog">فاصل غفوة افتراضي</string>
+    <string name="events_delete">حذف الأحداث</string>
+    <string name="action_select_all">تحديد الكل</string>
+    <string name="action_select_none">إلغاء تحديد الكل</string>
+    <string name="action_delete">تم</string>
+    <string name="all_events">كل الأحداث</string>
+    <string name="no_events">لا يوجد أحداث متاحة</string>
+    <string name="evt_del_dlg_title">حذف الأحداث؟</string>
+    <string name="evt_del_dlg_msg_selected">سيتم حذف الأحداث المحددة</string>
+    <string name="evt_del_dlg_msg_all">سيتم حذف كل الأحداث</string>
+    <string name="no_events_selected">عدم تحديد أحداث</string>
+    <plurals name="events_selected">
+        <item quantity="zero">%1$d أحداث محددة</item>
+        <item quantity="one">%1$d حدث محدد</item>
+        <item quantity="two">%1$d أحداث محددة</item>
+        <item quantity="few">%1$d أحداث محددة</item>
+        <item quantity="many">%1$d أحداث محددة</item>
+        <item quantity="other">%1$d أحداث محددة</item>
+    </plurals>
+    <string name="default_start_title">العرض الافتراضي</string>
+    <string name="default_start_last">العرض المستخدم سابقاً</string>
+    <string name="buttons_list_0">يوم</string>
+    <string name="buttons_list_1">أسبوع</string>
+    <string name="buttons_list_2">شهر</string>
+    <string name="buttons_list_3">أجندة</string>
+    <string name="buttons_list_4">السنة</string>
+    <string name="cal_share_intent_title">إرسال الحدث إلى:</string>
+    <string name="cal_export_event_sdcard_title">التصدير إلى بطاقة الذاكرة SD</string>
+    <string name="cal_export_succ_msg">تم تصدير الحدث بنجاح: %1s</string>
+    <string name="cal_import_menu_title">استيراد الحدث</string>
+    <string name="cal_nothing_to_import">لا شيء لاستيراده</string>
+    <string name="cal_import_error_msg">فشل الاستيراد إلى التقويم</string>
+    <string name="cal_pick_ics">اختر ملفاً للاستيراد</string>
+    <string name="week_of_year">أسبوع <xliff:g id="number">%1$d</xliff:g> من <xliff:g id="year">%2$s</xliff:g></string>
 </resources>

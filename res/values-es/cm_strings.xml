@@ -16,57 +16,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- read_calendar permission -->
-  <string name="on_permission_read_calendar">Ha desactivado un permiso requerido.</string>
-  <!-- No maps found in phone -->
-  <string name="no_map">No hay aplicaciones de mapas instaladas</string>
-  <!-- Toast message displayed when ics file to share an event can't be generated -->
-  <string name="error_generating_ics">Han habido problemas al compartir el evento</string>
-  <string name="share_label">Compartir</string>
-  <!-- Check box label for using custom snooze delays -->
-  <string name="preferences_alerts_custom_snooze_delay_title">Pedir un recordatorio de demora de repetición de alarma</string>
-  <!-- Summaries for using custom snooze delays -->
-  <string name="preferences_alerts_custom_snooze_delay_summary_on">Pedir una demora de repetición de alarma cuando se demoren los recordatorios</string>
-  <string name="preferences_alerts_custom_snooze_delay_summary_off">Usar siempre la demora de repetición de alarma por defecto</string>
-  <!-- Title of custom snooze delay dialog -->
-  <string name="snooze_delay_dialog_title">Establecer demora de repetición de alarma</string>
-  <!-- List item label for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_title">Tiempo por defecto de demora de repetición de alarma</string>
-  <!-- Title of dialog for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_dialog">Demora de repetición de alarma por defecto</string>
-  <!-- Default value for the default snooze delay (in minutes) -->
-  <!-- Delete events -->
-  <string name="events_delete">Eliminar eventos</string>
-  <string name="action_select_all">Seleccionar todo</string>
-  <string name="action_select_none">Cancelar toda la selección</string>
-  <string name="action_delete">Listo</string>
-  <string name="all_events">Todos los eventos</string>
-  <string name="no_events">No hay eventos disponibles</string>
-  <string name="evt_del_dlg_title">¿Eliminar eventos?</string>
-  <string name="evt_del_dlg_msg_selected">Los eventos seleccionados serán eliminados</string>
-  <string name="evt_del_dlg_msg_all">Todos los eventos serán eliminados</string>
-  <string name="no_events_selected">No hay eventos seleccionados</string>
-  <plurals name="events_selected">
-    <item quantity="one">%1$d evento seleccionado</item>
-    <item quantity="other">%1$d eventos seleccionados</item>
-  </plurals>
-  <!-- Label values for the default start page preference. -->
-  <string name="default_start_title">Vista por defecto</string>
-  <string name="default_start_last">Vista usada previamente</string>
-  <!-- Strings for buttons in drop down menu -->
-  <string name="buttons_list_0">Día</string>
-  <string name="buttons_list_1">Semana</string>
-  <string name="buttons_list_2">Mes</string>
-  <string name="buttons_list_3">Agenda</string>
-  <string name="buttons_list_4">Año</string>
-  <!-- Sharing calendar event -->
-  <string name="cal_share_intent_title">Enviar evento a:</string>
-  <string name="cal_export_event_sdcard_title">Exportar a la tarjeta SD</string>
-  <string name="cal_export_succ_msg">Evento exportado con éxito: %1s</string>
-  <string name="cal_import_menu_title">Importar evento</string>
-  <string name="cal_nothing_to_import">Nada que importar</string>
-  <string name="cal_import_error_msg">Error al importar al calendario</string>
-  <string name="cal_pick_ics">Selecciona archivo para importar</string>
-  <!-- String defining format for displaying week of the year -->
-  <string name="week_of_year">semana <xliff:g id="number">%1$d</xliff:g> de <xliff:g id="year">%2$s</xliff:g></string>
+    <string name="on_permission_read_calendar">Ha desactivado un permiso requerido.</string>
+    <string name="no_map">No hay aplicaciones de mapas instaladas</string>
+    <string name="error_generating_ics">Han habido problemas al compartir el evento</string>
+    <string name="share_label">Compartir</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">Pedir un recordatorio de demora de repetición de alarma</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Pedir una demora de repetición de alarma cuando se demoren los recordatorios</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Usar siempre la demora de repetición de alarma por defecto</string>
+    <string name="snooze_delay_dialog_title">Establecer demora de repetición de alarma</string>
+    <string name="preferences_default_snooze_delay_title">Tiempo por defecto de demora de repetición de alarma</string>
+    <string name="preferences_default_snooze_delay_dialog">Demora de repetición de alarma por defecto</string>
+    <string name="events_delete">Eliminar eventos</string>
+    <string name="action_select_all">Seleccionar todo</string>
+    <string name="action_select_none">Cancelar toda la selección</string>
+    <string name="action_delete">Listo</string>
+    <string name="all_events">Todos los eventos</string>
+    <string name="no_events">No hay eventos disponibles</string>
+    <string name="evt_del_dlg_title">¿Eliminar eventos?</string>
+    <string name="evt_del_dlg_msg_selected">Los eventos seleccionados serán eliminados</string>
+    <string name="evt_del_dlg_msg_all">Todos los eventos serán eliminados</string>
+    <string name="no_events_selected">No hay eventos seleccionados</string>
+    <plurals name="events_selected">
+        <item quantity="one">%1$d evento seleccionado</item>
+        <item quantity="other">%1$d eventos seleccionados</item>
+    </plurals>
+    <string name="default_start_title">Vista por defecto</string>
+    <string name="default_start_last">Vista usada previamente</string>
+    <string name="buttons_list_0">Día</string>
+    <string name="buttons_list_1">Semana</string>
+    <string name="buttons_list_2">Mes</string>
+    <string name="buttons_list_3">Agenda</string>
+    <string name="buttons_list_4">Año</string>
+    <string name="cal_share_intent_title">Enviar evento a:</string>
+    <string name="cal_export_event_sdcard_title">Exportar a la tarjeta SD</string>
+    <string name="cal_export_succ_msg">Evento exportado con éxito: %1s</string>
+    <string name="cal_import_menu_title">Importar evento</string>
+    <string name="cal_nothing_to_import">Nada que importar</string>
+    <string name="cal_import_error_msg">Error al importar al calendario</string>
+    <string name="cal_pick_ics">Selecciona archivo para importar</string>
+    <string name="week_of_year">semana <xliff:g id="number">%1$d</xliff:g> de <xliff:g id="year">%2$s</xliff:g></string>
 </resources>
