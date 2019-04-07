@@ -184,7 +184,6 @@
     <string name="preferences_hide_declined_title">Anubrir eventos refugaos</string>
     <string name="preferences_week_start_day_title">La selmana entama\'l</string>
     <string name="preferences_week_start_day_dialog">La selmana entama\'l</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_clear_search_history_title">Llimpiar l\'historial de gueta</string>
     <string name="preferences_clear_search_history_summary">Desanicia toles guetes que fixeres</string>
     <string name="search_history_cleared">Desanicióse l\'historial de gueta.</string>
@@ -198,7 +197,6 @@
     <string name="preferences_use_home_tz_title">Usar hora llocal</string>
     <string name="preferences_use_home_tz_descrip">Amuesa los calendarios y eventos nel fusu horariu que teas al viaxar</string>
     <string name="preferences_home_tz_title">Fusu horariu llocal</string>
-    <string name="preferences_home_tz_default">America/Los_Angeles</string>
     <string name="preferences_show_week_num_title">Amosar númberu de selmana</string>
     <string name="preferences_about_title">Tocante a</string>
     <string name="preferences_build_version">Versión de compilación</string>
@@ -208,7 +206,6 @@
         <item quantity="other">+<xliff:g id="number">%d</xliff:g></item>
     </plurals>
     <string name="gadget_no_events">Nun hai eventos futuros nel calendariu</string>
-    <string name="tardis">TARDIS</string>
     <string name="preferences_experimental_category">Esperimental</string>
     <string name="preferences_reminders_category">Recordatorios</string>
     <string name="preferences_reminders_responded_label">Omitir recordatorios</string>
