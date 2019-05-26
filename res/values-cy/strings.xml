@@ -44,14 +44,6 @@
         <item quantity="many"><xliff:g id="count">%d</xliff:g> mun</item>
         <item quantity="other"><xliff:g id="count">%d</xliff:g> mun</item>
     </plurals>
-    <plurals name="Nhours">
-        <item quantity="zero"><xliff:g id="count">%d</xliff:g> oriau</item>
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> awr</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> awr</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> awr</item>
-        <item quantity="many"><xliff:g id="count">%d</xliff:g> awr</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> awr</item>
-    </plurals>
     <plurals name="Ndays">
         <item quantity="zero"><xliff:g id="count">%d</xliff:g> diwrnodau</item>
         <item quantity="one"><xliff:g id="count">%d</xliff:g> diwrnod</item>
