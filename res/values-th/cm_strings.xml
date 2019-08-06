@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="on_permission_read_calendar">คุณได้ปิดใช้งานสิทธิ์ที่จำเป็นไว้</string>
+    <string name="no_map">ไม่มีการติดตั้งแอปแผนที่</string>
     <string name="error_generating_ics">มีปัญหาขณะแบ่งปันกิจกรรม</string>
     <string name="share_label">แบ่งบัน</string>
     <string name="preferences_alerts_custom_snooze_delay_title">ขอให้ยืดเวลาพักการเตือน</string>
@@ -34,6 +36,9 @@
     <string name="evt_del_dlg_msg_selected">กิจกรรมที่เลือกจะถูกลบ</string>
     <string name="evt_del_dlg_msg_all">กิจกรรมทั้งหมดจะถูกลบ</string>
     <string name="no_events_selected">ไม่มีกิจกรรมที่เลือก</string>
+    <plurals name="events_selected">
+        <item quantity="other">%1$d กิจกรรมถูกเลือก</item>
+    </plurals>
     <string name="default_start_title">มุมมองเริ่มต้น</string>
     <string name="default_start_last">มุมมองที่ใช้ก่อนหน้านี้</string>
     <string name="buttons_list_0">วัน</string>
@@ -48,4 +53,5 @@
     <string name="cal_nothing_to_import">ไม่มีสิ่งใดนำเข้า</string>
     <string name="cal_import_error_msg">การนำเข้าในปฏิทินล้มเหลว</string>
     <string name="cal_pick_ics">เลือกไฟล์ที่จะนำเข้า</string>
+    <string name="week_of_year">สัปดาห์ <xliff:g id="number">%1$d</xliff:g> ของ <xliff:g id="year">%2$s</xliff:g></string>
 </resources>

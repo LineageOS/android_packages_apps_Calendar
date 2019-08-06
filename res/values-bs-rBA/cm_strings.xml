@@ -16,10 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="share_label">გაზიარება</string>
-    <string name="default_start_title">ნაგულისხმევი ხედი</string>
-    <string name="buttons_list_0">დღე</string>
-    <string name="buttons_list_1">კვირა</string>
-    <string name="buttons_list_2">თვე</string>
-    <string name="buttons_list_3">დღის განრიგი</string>
+    <string name="buttons_list_0">Dan</string>
+    <string name="buttons_list_1">Sedmica</string>
+    <string name="buttons_list_2">Mjesec</string>
+    <string name="buttons_list_4">Godina</string>
 </resources>

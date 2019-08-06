@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="on_permission_read_calendar">Ты адключыў(-ла) патрэбны дазвол.</string>
-    <string name="error_generating_ics">Не атрымалася адправіць падзея</string>
+    <string name="error_generating_ics">Не атрымалася адправіць падзею</string>
     <string name="share_label">Падзяліцца</string>
     <string name="preferences_alerts_custom_snooze_delay_title">Паўторны напамін</string>
     <string name="preferences_alerts_custom_snooze_delay_summary_on">Пытаць перыяд адкладу напаміну</string>

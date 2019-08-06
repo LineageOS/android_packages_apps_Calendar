@@ -54,4 +54,5 @@
     <string name="cal_nothing_to_import">Asgjë për të importuar</string>
     <string name="cal_import_error_msg">Importimi në kalendar dështoi</string>
     <string name="cal_pick_ics">Zgjidh skedarin për ta importuar</string>
+    <string name="week_of_year">java <xliff:g id="number">%1$d</xliff:g> e <xliff:g id="year">%2$s</xliff:g></string>
 </resources>

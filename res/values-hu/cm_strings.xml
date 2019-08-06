@@ -54,4 +54,5 @@
     <string name="cal_nothing_to_import">Nincs mit importálni</string>
     <string name="cal_import_error_msg">Naptár importálása sikertelen</string>
     <string name="cal_pick_ics">Válassza ki az importálandó fájl</string>
+    <string name="week_of_year"><xliff:g id="year">%2$s</xliff:g> <xliff:g id="number">%1$d</xliff:g>. hete</string>
 </resources>

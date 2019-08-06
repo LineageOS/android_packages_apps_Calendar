@@ -17,21 +17,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="on_permission_read_calendar">Du har deaktiveret en påkrævet tilladelse.</string>
-    <string name="no_map">Der er ikke installeret en kort-app</string>
-    <string name="error_generating_ics">Der opstod problemer ved deling af begivenhed</string>
+    <string name="no_map">Der er ingen kort-app installeret</string>
+    <string name="error_generating_ics">Problemer fundet ved deling af begivenhed</string>
     <string name="share_label">Del</string>
-    <string name="preferences_alerts_custom_snooze_delay_title">Spørg efter udsættelse ved påmindelse</string>
-    <string name="preferences_alerts_custom_snooze_delay_summary_on">Spørg efter udsættelse ved hver påmindelse</string>
-    <string name="preferences_alerts_custom_snooze_delay_summary_off">Brug altid standard-udsættelsen</string>
-    <string name="snooze_delay_dialog_title">Sæt udsættelse</string>
-    <string name="preferences_default_snooze_delay_title">Tid for standard-udsættelse</string>
-    <string name="preferences_default_snooze_delay_dialog">Standard-udsættelse</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">Bed om forsinkelse af påmindelses-udskydelse</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Bed om udsættelse af udskydelse ved udskydelse af påmindelser</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Brug altid standard-udsættelse af udskydelse</string>
+    <string name="snooze_delay_dialog_title">Angiv udsættelse af udskydelse</string>
+    <string name="preferences_default_snooze_delay_title">Standard udsættelse af udskydelse-tid</string>
+    <string name="preferences_default_snooze_delay_dialog">Standard udsættelse af udskydelse</string>
     <string name="events_delete">Slet begivenheder</string>
     <string name="action_select_all">Vælg alle</string>
     <string name="action_select_none">Fravælg alle</string>
-    <string name="action_delete">Udført</string>
+    <string name="action_delete">Færdig</string>
     <string name="all_events">Alle begivenheder</string>
-    <string name="no_events">Ingen tilgængelige begivenheder</string>
+    <string name="no_events">Ingen begivenheder tilgængelige</string>
     <string name="evt_del_dlg_title">Slet begivenheder?</string>
     <string name="evt_del_dlg_msg_selected">Valgte begivenheder vil blive slettet</string>
     <string name="evt_del_dlg_msg_all">Alle begivenheder vil blive slettet</string>
@@ -41,7 +41,7 @@
         <item quantity="other">%1$d begivenheder valgt</item>
     </plurals>
     <string name="default_start_title">Standardvisning</string>
-    <string name="default_start_last">Tidl. anvendt visning</string>
+    <string name="default_start_last">Tidligere anvendt visning</string>
     <string name="buttons_list_0">Dag</string>
     <string name="buttons_list_1">Uge</string>
     <string name="buttons_list_2">Måned</string>
@@ -49,9 +49,10 @@
     <string name="buttons_list_4">År</string>
     <string name="cal_share_intent_title">Send begivenhed til:</string>
     <string name="cal_export_event_sdcard_title">Eksportér til SD-kort</string>
-    <string name="cal_export_succ_msg">Begivenhed eksporteret med succes: %1s</string>
+    <string name="cal_export_succ_msg">Eksport af begivenhed lykkedes: %1s</string>
     <string name="cal_import_menu_title">Importér begivenhed</string>
     <string name="cal_nothing_to_import">Intet at importere</string>
-    <string name="cal_import_error_msg">Import til kalenderen mislykkedes</string>
-    <string name="cal_pick_ics">Vælg fil til import</string>
+    <string name="cal_import_error_msg">Import til kalender fejlede</string>
+    <string name="cal_pick_ics">Vælg fil at importere</string>
+    <string name="week_of_year">uge <xliff:g id="number">%1$d</xliff:g> af <xliff:g id="year">%2$s</xliff:g></string>
 </resources>
