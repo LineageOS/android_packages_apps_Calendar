@@ -15,4 +15,21 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="events_selected">
+        <item quantity="zero">%1$d digwyddiadau wedi\'u dewis</item>
+        <item quantity="one">%1$d digwyddiad wedi\'i ddewis</item>
+        <item quantity="two">%1$d ddigwyddiad wedi\'u dewis</item>
+        <item quantity="few">%1$d digwyddiad wedi\'u dewis</item>
+        <item quantity="many">%1$d digwyddiad wedi\'i ddewis</item>
+        <item quantity="other">%1$d digwyddiad wedi\'i ddewis</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="zero">Dewisa ddigwyddiadau i\'w rhannu</item>
+        <item quantity="one">Dewisa ddigwyddiad i\'w rannu</item>
+        <item quantity="two">Dewisa ddigwyddiadau i\'w rhannu</item>
+        <item quantity="few">Dewisa ddigwyddiadau i\'w rhannu</item>
+        <item quantity="many">Dewisa ddigwyddiadau i\'w rhannu</item>
+        <item quantity="other">Dewisa ddigwyddiadau i\'w rhannu</item>
+    </plurals>
+</resources>

@@ -15,4 +15,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="events_selected">
+        <item quantity="one">%1$d afspraak geselecteerd</item>
+        <item quantity="other">%1$d ôfspraken selektearre</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="one">Selektearje ôfspraak om te dielen</item>
+        <item quantity="other">Selektearje ôfspraken om te dielen</item>
+    </plurals>
+</resources>

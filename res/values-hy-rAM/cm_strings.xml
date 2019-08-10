@@ -16,20 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Summaries for using custom snooze delays -->
-  <!-- Title of custom snooze delay dialog -->
-  <!-- List item label for setting the default snooze delay -->
-  <!-- Title of dialog for setting the default snooze delay -->
-  <!-- Default value for the default snooze delay (in minutes) -->
-  <!-- Label values for the default start page preference. -->
-  <!-- Delete Events related -->
-  <!-- This is a label on a menu item. Pressing this menu item allows the
-         user to go to the calendars to display [CHAR LIMIT=20] -->
-  <!-- Sharing calendar event -->
-  <!-- Toast message displayed when ics file to share an event can't be generated -->
-  <!-- Strings for buttons in drop down menu -->
-  <string name="buttons_list_0">Օր</string>
-  <string name="buttons_list_1">Շաբաթ</string>
-  <string name="buttons_list_2">Ամիս</string>
-  <string name="buttons_list_3">Օրակարգ</string>
+    <string name="buttons_list_0">Օր</string>
+    <string name="buttons_list_1">Շաբաթ</string>
+    <string name="buttons_list_2">Ամիս</string>
+    <string name="buttons_list_3">Օրակարգ</string>
 </resources>

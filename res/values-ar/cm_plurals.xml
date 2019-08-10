@@ -16,20 +16,20 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="events_selected">
-    <item quantity="zero">تم تحديد %1$d حدثاً</item>
-    <item quantity="one">تم تحديد %1$d أحداث</item>
-    <item quantity="two">تم تحديد %1$d أحداث</item>
-    <item quantity="few">تم تحديد %1$d أحداث</item>
-    <item quantity="many">تم تحديد %1$d أحداث</item>
-    <item quantity="other">تم تحديد %1$d أحداث</item>
-  </plurals>
-  <plurals name="select_events_to_share">
-    <item quantity="zero">حدد حدثاً للمشاركة</item>
-    <item quantity="one">حدد أحداثاً للمشاركة</item>
-    <item quantity="two">حدد أحداثاً للمشاركة</item>
-    <item quantity="few">حدد أحداثاً للمشاركة</item>
-    <item quantity="many">حدد أحداثاً للمشاركة</item>
-    <item quantity="other">حدد أحداثاً للمشاركة</item>
-  </plurals>
+    <plurals name="events_selected">
+        <item quantity="zero">تم تحديد %1$d حدثاً</item>
+        <item quantity="one">تم تحديد %1$d أحداث</item>
+        <item quantity="two">تم تحديد %1$d أحداث</item>
+        <item quantity="few">تم تحديد %1$d أحداث</item>
+        <item quantity="many">تم تحديد %1$d أحداث</item>
+        <item quantity="other">تم تحديد %1$d أحداث</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="zero">حدد حدثاً للمشاركة</item>
+        <item quantity="one">حدد أحداثاً للمشاركة</item>
+        <item quantity="two">حدد أحداثاً للمشاركة</item>
+        <item quantity="few">حدد أحداثاً للمشاركة</item>
+        <item quantity="many">حدد أحداثاً للمشاركة</item>
+        <item quantity="other">حدد أحداثاً للمشاركة</item>
+    </plurals>
 </resources>

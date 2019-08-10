@@ -16,16 +16,37 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Summaries for using custom snooze delays -->
-  <!-- Title of custom snooze delay dialog -->
-  <!-- List item label for setting the default snooze delay -->
-  <!-- Title of dialog for setting the default snooze delay -->
-  <!-- Default value for the default snooze delay (in minutes) -->
-  <!-- Label values for the default start page preference. -->
-  <!-- Delete Events related -->
-  <!-- This is a label on a menu item. Pressing this menu item allows the
-         user to go to the calendars to display [CHAR LIMIT=20] -->
-  <!-- Sharing calendar event -->
-  <!-- Toast message displayed when ics file to share an event can't be generated -->
-  <!-- Strings for buttons in drop down menu -->
+    <string name="preferences_alerts_custom_snooze_delay_title">Slommerdoer freegje</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Doer freegje by it slommerjen fan in omtinken</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Altyd de standertdoer brûke</string>
+    <string name="snooze_delay_dialog_title">Slommerdoer ynstelle</string>
+    <string name="preferences_default_snooze_delay_title">Standertslommerdoer</string>
+    <string name="preferences_default_snooze_delay_dialog">Standertslommerdoer</string>
+    <string name="default_start_title">Standertwerjefte</string>
+    <string name="default_start_last">Lêst brûkte werjefte</string>
+    <string name="events_delete">Ofspraken fuortsmite</string>
+    <string name="action_select_all">Alles selektearje</string>
+    <string name="action_select_none">Alles deselektearje</string>
+    <string name="action_delete">Foltôge</string>
+    <string name="all_events">Alle ôfspraken</string>
+    <string name="no_events">Gjin ôfspraken beskikber</string>
+    <string name="evt_del_dlg_title">Ofspraken fuortsmite?</string>
+    <string name="evt_del_dlg_msg_selected">Selektearre ôfspraken sille fuortsmiten wurde</string>
+    <string name="evt_del_dlg_msg_all">Alle ôfspraken wurde fuortsmiten</string>
+    <string name="no_events_selected">Gjin ôfspraken selektearre</string>
+    <string name="go_to">Gean nei</string>
+    <string name="cal_share_intent_title">Ofspraak ferstjoere nei:</string>
+    <string name="cal_export_event_sdcard_title">Eksportearje nei SD-kaart</string>
+    <string name="cal_export_succ_msg">Ofspraak mei sukses eksportearre: %1s</string>
+    <string name="cal_import_menu_title">Ofspraak ymportearje</string>
+    <string name="cal_nothing_to_import">Neat te ymportearjen</string>
+    <string name="cal_import_error_msg">Ymportearjen nei aginda mislearre</string>
+    <string name="cal_pick_ics">Kies bestân om te ymportearjen</string>
+    <string name="error_generating_ics">Kin ôfspraak net diele</string>
+    <string name="share_label">Diele</string>
+    <string name="buttons_list_0">Dei</string>
+    <string name="buttons_list_1">Wike</string>
+    <string name="buttons_list_2">Moanne</string>
+    <string name="buttons_list_3">Aginda</string>
+    <string name="buttons_list_4">Jier</string>
 </resources>

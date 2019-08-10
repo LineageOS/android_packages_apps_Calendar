@@ -16,16 +16,16 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="events_selected">
-    <item quantity="one">Izbran %1$d dogodek</item>
-    <item quantity="two">Izbrana %1$d dogodka</item>
-    <item quantity="few">Izbrani %1$d dogodki</item>
-    <item quantity="other">Izbranih %1$d dogodkov</item>
-  </plurals>
-  <plurals name="select_events_to_share">
-    <item quantity="one">Izberite dogodek za deljenje</item>
-    <item quantity="two">Izberite dogodka za deljenje</item>
-    <item quantity="few">Izberite dogodke za deljenje</item>
-    <item quantity="other">Izberite dogodke za deljenje</item>
-  </plurals>
+    <plurals name="events_selected">
+        <item quantity="one">Izbran %1$d dogodek</item>
+        <item quantity="two">Izbrana %1$d dogodka</item>
+        <item quantity="few">Izbrani %1$d dogodki</item>
+        <item quantity="other">Izbranih %1$d dogodkov</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="one">Izberite dogodek za deljenje</item>
+        <item quantity="two">Izberite dogodka za deljenje</item>
+        <item quantity="few">Izberite dogodke za deljenje</item>
+        <item quantity="other">Izberite dogodke za deljenje</item>
+    </plurals>
 </resources>

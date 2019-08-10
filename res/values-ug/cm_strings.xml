@@ -16,49 +16,37 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="preferences_alerts_custom_snooze_delay_title">ئەسكەرتىشنى ۋاقىتلىق توختىتىدىغان ۋاقىت ئۇزۇنلۇقىنى سورا</string>
-  <!-- Summaries for using custom snooze delays -->
-  <string name="preferences_alerts_custom_snooze_delay_summary_on">ئەسكەرتىشنى ۋاقىتلىق توختاتقاندا داۋاملىشىش ۋاقتىنى سورا</string>
-  <string name="preferences_alerts_custom_snooze_delay_summary_off">ھەمىشە ئەسكەرتىشنى ۋاقىتلىق توختىتىدىغان ۋاقىت ئۇزۇنلۇقىنى ئىشلەت</string>
-  <!-- Title of custom snooze delay dialog -->
-  <string name="snooze_delay_dialog_title">ئەسكەرتىشنى ۋاقىتلىق توختىتىدىغان قايتىلىنىش ۋاقتىنى بەلگىلەش</string>
-  <!-- List item label for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_title">كۆڭۈلدىكى ئەسكەرتىشنى ۋاقىتلىق توختىتىش ۋاقتىنىڭ ئۇزۇنلۇقى</string>
-  <!-- Title of dialog for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_dialog">كۆڭۈلدىكى ئەسكەرتىشنى ۋاقىتلىق توختىتىش ۋاقتى</string>
-  <!-- Default value for the default snooze delay (in minutes) -->
-  <!-- Label values for the default start page preference. -->
-  <string name="default_start_title">كۆڭۈلدىكى كۆرۈنۈش</string>
-  <string name="default_start_last">ئىلگىرى ئىشلەتكەن كۆرۈنۈش</string>
-  <!-- Delete Events related -->
-  <string name="events_delete">پائالىيەتلەرنى ئۆچۈر</string>
-  <string name="action_select_all">ھەممىنى تاللا</string>
-  <string name="action_select_none">ھەممىنى تاللىما</string>
-  <string name="action_delete">تامام</string>
-  <string name="all_events">ھەممە پائالىيەت</string>
-  <string name="no_events">ھېچقانداق پائالىيەت يوق</string>
-  <string name="evt_del_dlg_title">پائالىيەتلەرنى ئۆچۈرەمدۇ؟</string>
-  <string name="evt_del_dlg_msg_selected">تاللانغان پائالىيەتلەر ئۆچۈرۈلىدۇ</string>
-  <string name="evt_del_dlg_msg_all">ھەممە پائالىيەتلەر ئۆچۈرۈلىدۇ</string>
-  <string name="no_events_selected">ھېچقانداق پائالىيەت تاللانمىدى</string>
-  <!-- This is a label on a menu item. Pressing this menu item allows the
-         user to go to the calendars to display [CHAR LIMIT=20] -->
-  <string name="go_to">يۆتكەل</string>
-  <!-- Sharing calendar event -->
-  <string name="cal_share_intent_title">پائالىيەتنى يوللاش ئورنى:</string>
-  <string name="cal_export_event_sdcard_title">SD كارتىغا چىقار</string>
-  <string name="cal_export_succ_msg">پائالىيەت مۇۋەپپەقىيەتلىك چىقىرىلدى: %1s</string>
-  <string name="cal_import_menu_title">پائالىيەت ئەكىر</string>
-  <string name="cal_nothing_to_import">ئەكىرىدىغان ھېچنېمە يوق</string>
-  <string name="cal_import_error_msg">يىلنامىگە ئەكىرەلمىدى</string>
-  <string name="cal_pick_ics">ئەكىرىدىغان ھۆججەتنى تاللاڭ</string>
-  <!-- Toast message displayed when ics file to share an event can't be generated -->
-  <string name="error_generating_ics">پائالىيەتنى ھەمبەھىرلىگەندە مەسىلە كۆرۈلدى</string>
-  <string name="share_label">ھەمبەھىر</string>
-  <!-- Strings for buttons in drop down menu -->
-  <string name="buttons_list_0">كۈن</string>
-  <string name="buttons_list_1">ھەپتە</string>
-  <string name="buttons_list_2">ئاي</string>
-  <string name="buttons_list_3">كۈنتەرتىپ</string>
-  <string name="buttons_list_4">Year</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">ئەسكەرتىشنى ۋاقىتلىق توختىتىدىغان ۋاقىت ئۇزۇنلۇقىنى سورا</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">ئەسكەرتىشنى ۋاقىتلىق توختاتقاندا داۋاملىشىش ۋاقتىنى سورا</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">ھەمىشە ئەسكەرتىشنى ۋاقىتلىق توختىتىدىغان ۋاقىت ئۇزۇنلۇقىنى ئىشلەت</string>
+    <string name="snooze_delay_dialog_title">ئەسكەرتىشنى ۋاقىتلىق توختىتىدىغان قايتىلىنىش ۋاقتىنى بەلگىلەش</string>
+    <string name="preferences_default_snooze_delay_title">كۆڭۈلدىكى ئەسكەرتىشنى ۋاقىتلىق توختىتىش ۋاقتىنىڭ ئۇزۇنلۇقى</string>
+    <string name="preferences_default_snooze_delay_dialog">كۆڭۈلدىكى ئەسكەرتىشنى ۋاقىتلىق توختىتىش ۋاقتى</string>
+    <string name="default_start_title">كۆڭۈلدىكى كۆرۈنۈش</string>
+    <string name="default_start_last">ئىلگىرى ئىشلەتكەن كۆرۈنۈش</string>
+    <string name="events_delete">پائالىيەتلەرنى ئۆچۈر</string>
+    <string name="action_select_all">ھەممىنى تاللا</string>
+    <string name="action_select_none">ھەممىنى تاللىما</string>
+    <string name="action_delete">تامام</string>
+    <string name="all_events">ھەممە پائالىيەت</string>
+    <string name="no_events">ھېچقانداق پائالىيەت يوق</string>
+    <string name="evt_del_dlg_title">پائالىيەتلەرنى ئۆچۈرەمدۇ؟</string>
+    <string name="evt_del_dlg_msg_selected">تاللانغان پائالىيەتلەر ئۆچۈرۈلىدۇ</string>
+    <string name="evt_del_dlg_msg_all">ھەممە پائالىيەتلەر ئۆچۈرۈلىدۇ</string>
+    <string name="no_events_selected">ھېچقانداق پائالىيەت تاللانمىدى</string>
+    <string name="go_to">يۆتكەل</string>
+    <string name="cal_share_intent_title">پائالىيەتنى يوللاش ئورنى:</string>
+    <string name="cal_export_event_sdcard_title">SD كارتىغا چىقار</string>
+    <string name="cal_export_succ_msg">پائالىيەت مۇۋەپپەقىيەتلىك چىقىرىلدى: %1s</string>
+    <string name="cal_import_menu_title">پائالىيەت ئەكىر</string>
+    <string name="cal_nothing_to_import">ئەكىرىدىغان ھېچنېمە يوق</string>
+    <string name="cal_import_error_msg">يىلنامىگە ئەكىرەلمىدى</string>
+    <string name="cal_pick_ics">ئەكىرىدىغان ھۆججەتنى تاللاڭ</string>
+    <string name="error_generating_ics">پائالىيەتنى ھەمبەھىرلىگەندە مەسىلە كۆرۈلدى</string>
+    <string name="share_label">ھەمبەھىر</string>
+    <string name="buttons_list_0">كۈن</string>
+    <string name="buttons_list_1">ھەپتە</string>
+    <string name="buttons_list_2">ئاي</string>
+    <string name="buttons_list_3">كۈنتەرتىپ</string>
+    <string name="buttons_list_4">Year</string>
 </resources>

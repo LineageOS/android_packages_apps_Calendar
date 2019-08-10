@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="events_selected">
-    <item quantity="one">%1$d sündmus valitud</item>
-    <item quantity="other">%1$d sündmust valitud</item>
-  </plurals>
-  <plurals name="select_events_to_share">
-    <item quantity="one">Valige sündmus mida jagada</item>
-    <item quantity="other">Valige sündmusi mida jagada</item>
-  </plurals>
+    <plurals name="events_selected">
+        <item quantity="one">%1$d sündmus valitud</item>
+        <item quantity="other">%1$d sündmust valitud</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="one">Valige sündmus mida jagada</item>
+        <item quantity="other">Valige sündmusi mida jagada</item>
+    </plurals>
 </resources>

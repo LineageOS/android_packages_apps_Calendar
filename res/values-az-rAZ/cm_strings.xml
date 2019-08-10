@@ -16,48 +16,37 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="preferences_alerts_custom_snooze_delay_title">Xatırladıcı üçün təxirə salma vaxtını soruş</string>
-  <!-- Summaries for using custom snooze delays -->
-  <string name="preferences_alerts_custom_snooze_delay_summary_on">Xatırladıcıları təxirə salarkən vaxtı soruş</string>
-  <string name="preferences_alerts_custom_snooze_delay_summary_off">Həmişə ilkin təxirə salma vaxtından istifadə et</string>
-  <!-- Title of custom snooze delay dialog -->
-  <string name="snooze_delay_dialog_title">Təxirə salma vaxtını tənzimlə</string>
-  <!-- List item label for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_title">İlkin təxirə salma vaxtı</string>
-  <!-- Title of dialog for setting the default snooze delay -->
-  <string name="preferences_default_snooze_delay_dialog">İlkin təxirə salma vaxtı</string>
-  <!-- Default value for the default snooze delay (in minutes) -->
-  <!-- Label values for the default start page preference. -->
-  <string name="default_start_title">İlkin görünüş</string>
-  <string name="default_start_last">Əvvəlki görünüş</string>
-  <!-- Delete Events related -->
-  <string name="events_delete">Tədbirləri sil</string>
-  <string name="action_select_all">Hamısını seç</string>
-  <string name="action_select_none">Heç birini seçmə</string>
-  <string name="action_delete">Hazırdır</string>
-  <string name="all_events">Bütün tədbirlər</string>
-  <string name="no_events">Heç bir tədbir yoxdur</string>
-  <string name="evt_del_dlg_title">Tədbirlər silinsin?</string>
-  <string name="evt_del_dlg_msg_selected">Seçilən tədbirlər silinəcək</string>
-  <string name="evt_del_dlg_msg_all">Bütün tədbirlər silinəcək</string>
-  <string name="no_events_selected">Heç bir tədbir seçilmədi</string>
-  <!-- This is a label on a menu item. Pressing this menu item allows the
-         user to go to the calendars to display [CHAR LIMIT=20] -->
-  <string name="go_to">Get</string>
-  <!-- Sharing calendar event -->
-  <string name="cal_share_intent_title">Tədbiri göndər:</string>
-  <string name="cal_export_event_sdcard_title">SD karda köçür</string>
-  <string name="cal_export_succ_msg">Tədbir uğurla köçürüldü: %1s</string>
-  <string name="cal_import_menu_title">Tədbir al</string>
-  <string name="cal_nothing_to_import">Alınacaq heçnə yoxdur</string>
-  <string name="cal_import_error_msg">Təqvimə alma uğursuz oldu</string>
-  <string name="cal_pick_ics">Alınacaq faylı seçin</string>
-  <!-- Toast message displayed when ics file to share an event can't be generated -->
-  <string name="error_generating_ics">Tədbir paylaşılan zaman problem baş verdi</string>
-  <string name="share_label">Paylaş</string>
-  <!-- Strings for buttons in drop down menu -->
-  <string name="buttons_list_0">Gün</string>
-  <string name="buttons_list_1">Həftə</string>
-  <string name="buttons_list_2">Ay</string>
-  <string name="buttons_list_3">Gündəlik</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">Xatırladıcı üçün ertələmə vaxtını soruş</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Xatırladıcıları ertələyərkən vaxtı soruş</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Həmişə ilkin ertələmə vaxtını istifadə et</string>
+    <string name="snooze_delay_dialog_title">Ertələmə vaxtını tənzimlə</string>
+    <string name="preferences_default_snooze_delay_title">İlkin ertələmə vaxtı</string>
+    <string name="preferences_default_snooze_delay_dialog">İlkin ertələmə vaxtı</string>
+    <string name="default_start_title">İlkin görünüş</string>
+    <string name="default_start_last">Əvvəlki görünüş</string>
+    <string name="events_delete">Tədbirləri sil</string>
+    <string name="action_select_all">Hamısını seç</string>
+    <string name="action_select_none">Heç birini seçmə</string>
+    <string name="action_delete">Hazırdır</string>
+    <string name="all_events">Bütün tədbirlər</string>
+    <string name="no_events">Heç bir tədbir yoxdur</string>
+    <string name="evt_del_dlg_title">Tədbirlər silinsin?</string>
+    <string name="evt_del_dlg_msg_selected">Seçilən tədbirlər silinəcək</string>
+    <string name="evt_del_dlg_msg_all">Bütün tədbirlər silinəcək</string>
+    <string name="no_events_selected">Heç bir tədbir seçilmədi</string>
+    <string name="go_to">Get</string>
+    <string name="cal_share_intent_title">Tədbiri göndər:</string>
+    <string name="cal_export_event_sdcard_title">SD karda köçür</string>
+    <string name="cal_export_succ_msg">Tədbir uğurla köçürüldü: %1s</string>
+    <string name="cal_import_menu_title">Tədbir götür</string>
+    <string name="cal_nothing_to_import">Götürüləcək heçnə yoxdur</string>
+    <string name="cal_import_error_msg">Götürmə uğursuz oldu</string>
+    <string name="cal_pick_ics">Götürüləcək faylı seçin</string>
+    <string name="error_generating_ics">Tədbir paylaşılan zaman problem baş verdi</string>
+    <string name="share_label">Paylaş</string>
+    <string name="buttons_list_0">Gün</string>
+    <string name="buttons_list_1">Həftə</string>
+    <string name="buttons_list_2">Ay</string>
+    <string name="buttons_list_3">Gündəlik</string>
+    <string name="buttons_list_4">İl</string>
 </resources>

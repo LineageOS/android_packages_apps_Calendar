@@ -16,16 +16,37 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Summaries for using custom snooze delays -->
-  <!-- Title of custom snooze delay dialog -->
-  <!-- List item label for setting the default snooze delay -->
-  <!-- Title of dialog for setting the default snooze delay -->
-  <!-- Default value for the default snooze delay (in minutes) -->
-  <!-- Label values for the default start page preference. -->
-  <!-- Delete Events related -->
-  <!-- This is a label on a menu item. Pressing this menu item allows the
-         user to go to the calendars to display [CHAR LIMIT=20] -->
-  <!-- Sharing calendar event -->
-  <!-- Toast message displayed when ics file to share an event can't be generated -->
-  <!-- Strings for buttons in drop down menu -->
+    <string name="preferences_alerts_custom_snooze_delay_title">Gofyn am hyd oediad wrth roi hysbysiadau atgoffa i hepian</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Cynnig gosod hyd yr oediad wrth roi nodiadau atgoffa i hepian</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Defnyddio\'r cyfnod hepian rhagosodedig o hyd</string>
+    <string name="snooze_delay_dialog_title">Gosod oediad hepian</string>
+    <string name="preferences_default_snooze_delay_title">Amser rhagosodedig oedi hepian</string>
+    <string name="preferences_default_snooze_delay_dialog">Oediad hepian rhagosodedig</string>
+    <string name="default_start_title">Golwg rhagosodedig</string>
+    <string name="default_start_last">Golwg wedi\'i ddefnyddio\'n flaenorol</string>
+    <string name="events_delete">Dileu digwyddiadau</string>
+    <string name="action_select_all">Dewis y cwbl</string>
+    <string name="action_select_none">Dewis dim</string>
+    <string name="action_delete">Iawn</string>
+    <string name="all_events">Pob digwyddiad</string>
+    <string name="no_events">Dim digwyddiadau ar gael</string>
+    <string name="evt_del_dlg_title">Dileu digwyddiadau?</string>
+    <string name="evt_del_dlg_msg_selected">Caiff y digwyddiadau a ddewiswyd eu dileu</string>
+    <string name="evt_del_dlg_msg_all">Caiff pob digwyddiad ei ddileu</string>
+    <string name="no_events_selected">Dim digwyddiadau wedi\'u dewis</string>
+    <string name="go_to">Mynd i</string>
+    <string name="cal_share_intent_title">Anfon digwyddiad at:</string>
+    <string name="cal_export_event_sdcard_title">Allforio i gerdyn SD</string>
+    <string name="cal_export_succ_msg">Allforiwyd y digwyddiad yn llwyddiannus: %1s</string>
+    <string name="cal_import_menu_title">Mewnforio digwyddiad</string>
+    <string name="cal_nothing_to_import">Dim byd i\'w fewnforio</string>
+    <string name="cal_import_error_msg">Methodd y mewnforio i\'r calendr</string>
+    <string name="cal_pick_ics">Dewisa ffeil i\'w mewnforio</string>
+    <string name="error_generating_ics">Cafwyd problemau wrth rannu\'r digwyddiad</string>
+    <string name="share_label">Rhannu</string>
+    <string name="buttons_list_0">Diwrnod</string>
+    <string name="buttons_list_1">Wythnos</string>
+    <string name="buttons_list_2">Mis</string>
+    <string name="buttons_list_3">Agenda</string>
+    <string name="buttons_list_4">Blwyddyn</string>
 </resources>

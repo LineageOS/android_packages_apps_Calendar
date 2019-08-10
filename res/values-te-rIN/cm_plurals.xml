@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="events_selected">
-    <item quantity="one">%1$d ఈవెంట్ ఎచుకోబడింది</item>
-    <item quantity="other">%1$d ఈవెంట్లు ఎంచుకోబడ్డాయి</item>
-  </plurals>
-  <plurals name="select_events_to_share">
-    <item quantity="one">పంచుకునేందుకు ఈవెంటును ఎంచుకొనుము</item>
-    <item quantity="other">పంచుకునేందుకు ఈవెంట్లను ఎంచుకొనుము</item>
-  </plurals>
+    <plurals name="events_selected">
+        <item quantity="one">%1$d ఈవెంట్ ఎచుకోబడింది</item>
+        <item quantity="other">%1$d ఈవెంట్లు ఎంచుకోబడ్డాయి</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="one">పంచుకునేందుకు ఈవెంటును ఎంచుకొనుము</item>
+        <item quantity="other">పంచుకునేందుకు ఈవెంట్లను ఎంచుకొనుము</item>
+    </plurals>
 </resources>

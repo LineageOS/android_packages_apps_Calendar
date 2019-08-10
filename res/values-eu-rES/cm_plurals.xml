@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="events_selected">
-    <item quantity="one">Gertaera %1$d hautatuta</item>
-    <item quantity="other">%1$d gertaera hautatuta</item>
-  </plurals>
-  <plurals name="select_events_to_share">
-    <item quantity="one">Hautatu partekatuko den gertaera</item>
-    <item quantity="other">Hautatu partekatuko diren gertaerak</item>
-  </plurals>
+    <plurals name="events_selected">
+        <item quantity="one">Gertaera %1$d hautatuta</item>
+        <item quantity="other">%1$d gertaera hautatuta</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="one">Hautatu partekatuko den gertaera</item>
+        <item quantity="other">Hautatu partekatuko diren gertaerak</item>
+    </plurals>
 </resources>

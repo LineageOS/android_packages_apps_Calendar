@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="events_selected">
-    <item quantity="one">Επιλέχθηκε %1$d συμβάν</item>
-    <item quantity="other">Επιλέχθηκαν %1$d συμβάντα</item>
-  </plurals>
-  <plurals name="select_events_to_share">
-    <item quantity="one">Επιλέξτε ένα συμβάν για κοινή χρήση</item>
-    <item quantity="other">Επιλέξτε συμβάντα για κοινή χρήση</item>
-  </plurals>
+    <plurals name="events_selected">
+        <item quantity="one">Επιλέχθηκε %1$d συμβάν</item>
+        <item quantity="other">Επιλέχθηκαν %1$d συμβάντα</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="one">Επιλέξτε ένα συμβάν για κοινή χρήση</item>
+        <item quantity="other">Επιλέξτε συμβάντα για κοινή χρήση</item>
+    </plurals>
 </resources>

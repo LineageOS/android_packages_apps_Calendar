@@ -16,14 +16,16 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="events_selected">
-    <item quantity="one">Vybrána %1$d událost</item>
-    <item quantity="few">Vybrány %1$d události</item>
-    <item quantity="other">Vybráno %1$d událostí</item>
-  </plurals>
-  <plurals name="select_events_to_share">
-    <item quantity="one">Zvolte událost ke sdílení</item>
-    <item quantity="few">Zvolte události ke sdílení</item>
-    <item quantity="other">Zvolte události ke sdílení</item>
-  </plurals>
+    <plurals name="events_selected">
+        <item quantity="one">Vybrána %1$d událost</item>
+        <item quantity="few">Vybrány %1$d události</item>
+        <item quantity="many">Vybráno %1$d událostí</item>
+        <item quantity="other">Vybráno %1$d událostí</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="one">Zvolte událost ke sdílení</item>
+        <item quantity="few">Zvolte události ke sdílení</item>
+        <item quantity="many">Zvolte události ke sdílení</item>
+        <item quantity="other">Zvolte události ke sdílení</item>
+    </plurals>
 </resources>

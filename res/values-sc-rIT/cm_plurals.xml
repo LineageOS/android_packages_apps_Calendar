@@ -15,4 +15,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="events_selected">
+        <item quantity="one">%1$d eventu ischertadu</item>
+        <item quantity="other">%1$d eventos ischertados</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="one">Ischerta un\'eventu de cumpartzire</item>
+        <item quantity="other">Ischerta eventos de cumpartzire</item>
+    </plurals>
+</resources>

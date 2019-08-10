@@ -16,14 +16,14 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <plurals name="events_selected">
-    <item quantity="one">%1$d eveniment selectat</item>
-    <item quantity="few">%1$d evenimente selectate</item>
-    <item quantity="other">%1$d evenimente selectate</item>
-  </plurals>
-  <plurals name="select_events_to_share">
-    <item quantity="one">Selectați un eveniment pentru partajare</item>
-    <item quantity="few">Selectați evenimente pentru partajare</item>
-    <item quantity="other">Selectați evenimente pentru partajare</item>
-  </plurals>
+    <plurals name="events_selected">
+        <item quantity="one">%1$d eveniment selectat</item>
+        <item quantity="few">%1$d evenimente selectate</item>
+        <item quantity="other">%1$d evenimente selectate</item>
+    </plurals>
+    <plurals name="select_events_to_share">
+        <item quantity="one">Selectați un eveniment pentru partajare</item>
+        <item quantity="few">Selectați evenimente pentru partajare</item>
+        <item quantity="other">Selectați evenimente pentru partajare</item>
+    </plurals>
 </resources>
