@@ -66,10 +66,6 @@ class DbTestUtils {
             return resources;
         }
 
-        public int getUserId() {
-            return 0;
-        }
-
         public void setSharedPreferences(SharedPreferences sharedPreferences) {
             this.sharedPreferences = sharedPreferences;
         }

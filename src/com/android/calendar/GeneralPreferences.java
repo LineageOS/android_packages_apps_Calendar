@@ -118,6 +118,7 @@ public class GeneralPreferences extends PreferenceFragment implements
 
     CheckBoxPreference mAlert;
     CheckBoxPreference mVibrate;
+    RingtonePreference mRingtone;
     CheckBoxPreference mPopup;
     CheckBoxPreference mUseHomeTZ;
     CheckBoxPreference mHideDeclined;
@@ -163,6 +164,17 @@ public class GeneralPreferences extends PreferenceFragment implements
                     .findPreference(KEY_ALERTS_CATEGORY);
             mAlertGroup.removePreference(mVibrate);
         }
+
+        mRingtone = (RingtonePreference) preferenceScreen.findPreference(KEY_ALERTS_RINGTONE);
+        String ringToneUri = Utils.getRingTonePreference(activity);
+
+        // Set the ringToneUri to the backup-able shared pref only so that
+        // the Ringtone dialog will open up with the correct value.
+        final Editor editor = preferenceScreen.getEditor();
+        editor.putString(GeneralPreferences.KEY_ALERTS_RINGTONE, ringToneUri).apply();
+
+        String ringtoneDisplayString = getRingtoneTitleFromUri(activity, ringToneUri);
+        mRingtone.setSummary(ringtoneDisplayString == null ? "" : ringtoneDisplayString);
 
         mPopup = (CheckBoxPreference) preferenceScreen.findPreference(KEY_ALERTS_POPUP);
         mUseHomeTZ = (CheckBoxPreference) preferenceScreen.findPreference(KEY_HOME_TZ_ENABLED);
@@ -251,6 +263,7 @@ public class GeneralPreferences extends PreferenceFragment implements
         mHomeTZ.setOnPreferenceChangeListener(listener);
         mWeekStart.setOnPreferenceChangeListener(listener);
         mDefaultReminder.setOnPreferenceChangeListener(listener);
+        mRingtone.setOnPreferenceChangeListener(listener);
         mHideDeclined.setOnPreferenceChangeListener(listener);
         mVibrate.setOnPreferenceChangeListener(listener);
     }
@@ -311,6 +324,13 @@ public class GeneralPreferences extends PreferenceFragment implements
         } else if (preference == mDefaultReminder) {
             mDefaultReminder.setValue((String) newValue);
             mDefaultReminder.setSummary(mDefaultReminder.getEntry());
+        } else if (preference == mRingtone) {
+            if (newValue instanceof String) {
+                Utils.setRingTonePreference(activity, (String) newValue);
+                String ringtone = getRingtoneTitleFromUri(activity, (String) newValue);
+                mRingtone.setSummary(ringtone == null ? "" : ringtone);
+            }
+            return true;
         } else if (preference == mVibrate) {
             mVibrate.setChecked((Boolean) newValue);
             return true;
@@ -371,9 +391,11 @@ public class GeneralPreferences extends PreferenceFragment implements
     private void updateChildPreferences() {
         if (mAlert.isChecked()) {
             mVibrate.setEnabled(true);
+            mRingtone.setEnabled(true);
             mPopup.setEnabled(true);
         } else {
             mVibrate.setEnabled(false);
+            mRingtone.setEnabled(false);
             mPopup.setEnabled(false);
         }
     }
@@ -383,7 +405,17 @@ public class GeneralPreferences extends PreferenceFragment implements
     public boolean onPreferenceTreeClick(
             PreferenceScreen preferenceScreen, Preference preference) {
         final String key = preference.getKey();
-        return super.onPreferenceTreeClick(preferenceScreen, preference);
+        if (KEY_CLEAR_SEARCH_HISTORY.equals(key)) {
+            SearchRecentSuggestions suggestions = new SearchRecentSuggestions(getActivity(),
+                    Utils.getSearchAuthority(getActivity()),
+                    CalendarRecentSuggestionsProvider.MODE);
+            suggestions.clearHistory();
+            Toast.makeText(getActivity(), R.string.search_history_cleared,
+                    Toast.LENGTH_SHORT).show();
+            return true;
+        } else {
+            return super.onPreferenceTreeClick(preferenceScreen, preference);
+        }
     }
 
     @Override

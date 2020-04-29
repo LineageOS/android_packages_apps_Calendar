@@ -80,8 +80,9 @@ public class MonthByWeekAdapter extends SimpleWeeksAdapter {
     // Minimal distance to move the finger in order to cancel the click animation
     private static float mMovedPixelToCancel;
 
-    public MonthByWeekAdapter(Context context, HashMap<String, Integer> params) {
+    public MonthByWeekAdapter(Context context, HashMap<String, Integer> params, Handler handler) {
         super(context, params);
+        mEventDialogHandler = handler;
         if (params.containsKey(WEEK_PARAMS_IS_MINI)) {
             mIsMiniMonth = params.get(WEEK_PARAMS_IS_MINI) != 0;
         }
@@ -247,7 +248,30 @@ public class MonthByWeekAdapter extends SimpleWeeksAdapter {
         }
 
         v.setWeekParams(drawingParams, mSelectedDay.timezone);
+        sendEventsToView(v);
         return v;
+    }
+
+    private void sendEventsToView(MonthWeekEventsView v) {
+        if (mEventDayList.size() == 0) {
+            if (Log.isLoggable(TAG, Log.DEBUG)) {
+                Log.d(TAG, "No events loaded, did not pass any events to view.");
+            }
+            v.setEvents(null, null);
+            return;
+        }
+        int viewJulianDay = v.getFirstJulianDay();
+        int start = viewJulianDay - mFirstJulianDay;
+        int end = start + v.mNumDays;
+        if (start < 0 || end > mEventDayList.size()) {
+            if (Log.isLoggable(TAG, Log.DEBUG)) {
+                Log.d(TAG, "Week is outside range of loaded events. viewStart: " + viewJulianDay
+                        + " eventsStart: " + mFirstJulianDay);
+            }
+            v.setEvents(null, null);
+            return;
+        }
+        v.setEvents(mEventDayList.subList(start, end), mEvents);
     }
 
     @Override
@@ -351,6 +375,7 @@ public class MonthByWeekAdapter extends SimpleWeeksAdapter {
                     mLongClickedView.performHapticFeedback(HapticFeedbackConstants.LONG_PRESS);
                     Message message = new Message();
                     message.obj = day;
+                    mEventDialogHandler.sendMessage(message);
                 }
                 mLongClickedView.clearClickedDay();
                 mLongClickedView = null;
