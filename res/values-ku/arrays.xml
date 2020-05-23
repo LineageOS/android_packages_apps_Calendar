@@ -103,6 +103,7 @@
         <item>ڕۆژ</item>
         <item>هەفتە</item>
         <item>مانگ</item>
+        <item>بەرنامەی کار</item>
     </string-array>
     <string-array name="preferences_skip_reminders_labels">
         <item>تەنها ئەگەر پوچەڵکرایەوە</item>

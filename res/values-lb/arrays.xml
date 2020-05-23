@@ -103,6 +103,7 @@
         <item>Dag</item>
         <item>Woch</item>
         <item>Mount</item>
+        <item>Agenda</item>
     </string-array>
     <string-array name="preferences_skip_reminders_labels">
         <item>Nëmme bei Ofleenung</item>

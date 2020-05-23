@@ -103,6 +103,7 @@
         <item>Día</item>
         <item>Selmana</item>
         <item>Mes</item>
+        <item>Axenda</item>
     </string-array>
     <string-array name="preferences_skip_reminders_labels">
         <item>Namái si se refuga</item>
