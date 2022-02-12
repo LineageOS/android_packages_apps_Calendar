@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2006 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Calendàriu</string>
+    <string name="what_label">Ite</string>
+    <string name="where_label">Ue</string>
+    <string name="when_label">Cando</string>
+    <string name="timezone_label">Zona orària</string>
+    <string name="attendees_label">Persones invitadas</string>
+    <string name="today">Oe</string>
+    <string name="tomorrow">Cras</string>
+    <string name="today_at_time_fmt">"Oe a is <xliff:g id="time_interval">%s</xliff:g>"</string>
+    <string name="tomorrow_at_time_fmt">"Cras a is <xliff:g id="time_interval">%s</xliff:g>"</string>
+    <string name="date_time_fmt">"<xliff:g id="date">%s</xliff:g>, <xliff:g id="time_interval">%s</xliff:g>"</string>
+    <string name="repeats_label">Ripetitzione</string>
+    <string name="no_title_label">(Perunu tìtulu)</string>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minutu</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> minutos</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> minutos</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 ora</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> oras</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="one">1 die</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> dies</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="one">CHIDA <xliff:g id="count">%d</xliff:g></item>
+        <item quantity="other">CHIDA <xliff:g id="count">%d</xliff:g></item>
+    </plurals>
+    <string name="calendar_refresh">"Agiorna"</string>
+    <string name="show_day_view">"Mustra die"</string>
+    <string name="agenda_view">"Agenda"</string>
+    <string name="day_view">"Die"</string>
+    <string name="week_view">"Chida"</string>
+    <string name="month_view">"Mese"</string>
+    <string name="event_view">"Visualiza eventu"</string>
+    <string name="event_create">"Eventu nou"</string>
+    <string name="event_edit">"Modìfica eventu"</string>
+    <string name="event_delete">"Cantzella eventu"</string>
+    <string name="goto_today">"Oe"</string>
+    <string name="menu_preferences">"Impostatziones"</string>
+    <string name="menu_select_visible_calendars">"Calendàrios de mustrare"</string>
+    <string name="search">"Chirca"</string>
+    <string name="hide_controls">"Cua is controllos"</string>
+    <string name="show_controls">"Ammustra is controllos"</string>
+    <string name="select_visible_calendars_title">"Calendàrios de mustrare"</string>
+    <string name="synced"> sincronizadu</string>
+    <string name="not_synced"> non sincronizadu</string>
+    <string name="acct_not_synced">Custu contu non s\'est sincronizadu e duncas is calendàrios tuos
+        diant pòdere èssere no agiornados.</string>
+    <string name="accounts">Contos e sincronizatzione</string>
+    <string name="select_synced_calendars_title">Calendàrios de sincronizare</string>
+    <string name="select_synced_calendars_button">Calendàrios de sincronizare</string>
+    <string name="hint_what">"Nùmene de s'eventu"</string>
+    <string name="hint_where">"Positzione"</string>
+    <string name="hint_description">"Descritzione"</string>
+    <string name="hint_attendees">"Invitados"</string>
+    <string name="creating_event">"Eventu creadu."</string>
+    <string name="saving_event">"Eventu sarvadu."</string>
+    <string name="empty_event">"Eventu bòidu non creadu."</string>
+    <string name="creating_event_with_guest">"S'ant a imbiare invitos."</string>
+    <string name="saving_event_with_guest">"S'ant a imbiare agiornamentos."</string>
+    <string name="rsvp_accepted">"At rispostu ca eja."</string>
+    <string name="rsvp_tentative">"At rispostu ca forsis."</string>
+    <string name="rsvp_declined">"At rispostu ca nono."</string>
+    <string name="create_event_dialog_save">Sarva</string>
+    <string name="alert_title">Notìficas de calendàriu</string>
+    <string name="event_info_title">Visualiza eventu</string>
+    <string name="event_info_title_invite">Invitu a riunione</string>
+    <string name="edit_event_to_label">A</string>
+    <string name="edit_event_from_label">Dae</string>
+    <string name="edit_event_all_day_label">Totu sa die</string>
+    <string name="edit_event_calendar_label">Calendàriu</string>
+    <string name="edit_event_show_all">Mustra totu</string>
+    <string name="description_label">Descritzione</string>
+    <string name="presence_label">Ammustra·mi comente</string>
+    <string name="privacy_label">Riservadesa</string>
+    <string name="reminders_label">Agiunghe unu promemòria</string>
+    <string name="no_syncable_calendars">Nissunu calendàriu</string>
+    <string name="no_calendars_found">In antis de pòdere agiùnghere un\'eventu, depes agiùnghere a su mancu unu contu Calendar a su dispositivu tuo e rèndere visìbile unu calendàriu. Toca Agiunghe contu pro agiùnghere unu contu (si as apenas agiuntu unu contu, iseta chi nche finat sa sincronizatzione e torra·bi a proare). O si nono toca Annulla e segura·ti chi si potzat bìdere a su nessi in su calendàriu.</string>
+    <string name="create_an_account_desc">"Is cuntatos funtzionant mègius cun unu contu de Google. \n\n\u2022 Intra dae cale si siat navigadore. \n\u2022 Faghe sa còpia de seguresa in manera segura."</string>
+    <string name="add_account">Agiunghe contu</string>
+    <string name="view_event_calendar_label">Calendàriu:</string>
+    <string name="view_event_organizer_label">Organizadore:</string>
+    <string name="choose_event_color_label">Sèbera su colore de s\'eventu</string>
+    <string name="event_color_picker_dialog_title">Colore de s\'eventu</string>
+    <string name="event_color_set_to_default">Defini comente colore de su calendàriu</string>
+    <string name="calendar_color_picker_dialog_title">Colore de su calendàriu</string>
+    <string name="calendar_square_color_picker_description">Seletzionadore de colore</string>
+    <string name="view_event_response_label">A partètzipas?</string>
+    <string name="response_yes">Eja</string>
+    <string name="response_maybe">Fortzis</string>
+    <string name="response_no">Nono</string>
+    <string name="email_guests_label">Manda·ddis unu messàgiu a is invitados</string>
+    <string name="email_organizer_label">Organizadore messàgios</string>
+    <string name="email_picker_label">Imbia lìtera eletrònica cun</string>
+    <string name="event_not_found">"Eventu no agatadu."</string>
+    <string name="map_label">Mapa</string>
+    <string name="call_label">Mutida</string>
+    <string name="quick_response_settings">Rispostas lestras</string>
+    <string name="quick_response_settings_summary">Modìfica is rispostas predefinidas cando imbias unu messàgiu a is invitados</string>
+    <string name="quick_response_settings_title">Iscrie rispostas lestras</string>
+    <string name="quick_response_settings_edit_title">Risposta lestra</string>
+    <string name="quick_response_dialog_title">Sèbera rispostas lestras</string>
+    <string name="quick_response_email_failed">No at fatu a agatare su programma de posta eletrònica</string>
+    <string-array name="quick_response_defaults">
+        <item>Currende petzi una pariga de minutos de ritardu.</item>
+        <item>Nche ses in cue prus o mancu in 10 minutos.</item>
+        <item>Sighi a in antis e cumintzat chena b\'èssere deo.</item>
+        <item>Non faghet. Mègius in un\'àteru momentu.</item>
+    </string-array>
+    <string name="quick_response_custom_msg">Iscrie su\u2026 tuo</string>
+    <string name="event_info_organizer">Organizadore:</string>
+    <string name="event_info_reminders_label">Promemòrias</string>
+    <string name="agenda_today">OE, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_yesterday">ERIS, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">Carrighende\u2026</string>
+    <string name="show_older_events">Toca pro visualizare eventos in antis de <xliff:g id="oldest_search_range">%1$s</xliff:g></string>
+    <string name="show_newer_events">Toca pro visualizare eventos a pustis de <xliff:g id="newest_search_range">%1$s</xliff:g></string>
+    <string name="search_title">Chirca in is calendàrios mios</string>
+    <string name="edit_event_label">"Detàllios"</string>
+    <string name="edit_label">"Modìfica"</string>
+    <string name="delete_label">"Cantzella"</string>
+    <string name="save_label">Fatu</string>
+    <string name="discard_label">Annulla</string>
+    <string name="snooze_all_label">"Postìtzipa totu"</string>
+    <string name="dismiss_all_label">"Iscarta isvèllia"</string>
+    <string name="snooze_label">"Postìtzipa"</string>
+    <string name="does_not_repeat">Eventu ùnicu</string>
+    <string name="endByDate">; finas a su <xliff:g id="date">%s</xliff:g></string>
+    <plurals name="endByCount">
+        <item quantity="one">; pro una borta</item>
+        <item quantity="other">; pro <xliff:g id="number">%d</xliff:g> bortas</item>
+    </plurals>
+    <string name="every_weekday">"Ògnia die de sa chida (Lun\u2013Che)"</string>
+    <plurals name="weekly">
+        <item quantity="one">Cada chida su <xliff:g id="days_of_week">%2$s</xliff:g></item>
+        <item quantity="other">Cada <xliff:g id="number">%1$d</xliff:g> chidas su <xliff:g id="days_of_week">%2$s</xliff:g></item>
+    </plurals>
+    <string name="monthly">Ogni mese</string>
+    <string name="yearly_plain">Ogni annu</string>
+    <string name="monthly_on_day">"Cada mese (sa die de <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="yearly">"Cada annu (su <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="custom" product="tablet">"Personaliza (non podes personalizare in sa tauledda)"</string>
+    <string name="custom" product="default">"Personaliza (non podes personalizare in su telèfonu)"</string>
+    <string name="modify_event">Càmbia petzi custu eventu</string>
+    <string name="modify_all">Càmbia totu is eventos de sa sèrie</string>
+    <string name="modify_all_following">Càmbia custu e totu is eventos in su benidore</string>
+    <string name="new_event_dialog_label">"Eventu nou"</string>
+    <string name="new_event_dialog_option">"Eventu nou"</string>
+    <string name="delete_this_event_title">Boles cantzellare custu eventu?</string>
+    <string name="delete_recurring_event_title">Boles cantzellare <xliff:g id="eventtitle">%s</xliff:g>?</string>
+    <string name="change_response_title">Muda sa risposta</string>
+    <string name="menu_general_preferences">Impostatziones generales</string>
+    <string name="menu_about_preferences">Subra de su Calendàriu</string>
+    <string name="preferences_title">"Impostatziones"</string>
+    <string name="preferences_general_title">Cunfiguratzione de visualizatzione de su calendàriu</string>
+    <string name="preferences_reminder_title">Notìficas \u0026 apuntos</string>
+    <string name="preferences_hide_declined_title">Cua eventos refudados</string>
+    <string name="preferences_week_start_day_title">Sa chida cumintzat su</string>
+    <string name="preferences_week_start_day_dialog">Sa chida cumintzat su</string>
+    <string name="preferences_clear_search_history_title">Isbòida sa cronologia de sas chircas</string>
+    <string name="preferences_clear_search_history_summary">Boga totu is chircas chi as fatu</string>
+    <string name="search_history_cleared">Cronologia de chirca cantzellada.</string>
+    <string name="preferences_alerts_title">Notìficas</string>
+    <string name="preferences_alerts_vibrateWhen_title">Vibra</string>
+    <string name="preferences_alerts_ringtone_title">Sonu</string>
+    <string name="preferences_alerts_popup_title">Notìficas a cumparsa</string>
+    <string name="preferences_default_reminder_title">Tempus predefinidu de promemòria</string>
+    <string name="preferences_default_reminder_dialog">Tempus predefinidu de promemòria</string>
+    <string name="preferences_default_reminder_default">10</string>
+    <string name="preferences_use_home_tz_title">Imprea su fusu oràriu de sa zona tua</string>
+    <string name="preferences_use_home_tz_descrip">Ammustra calendàrios e oràrios de eventos in su fusu oràriu tuo de domo cando ses in biàgiu</string>
+    <string name="preferences_home_tz_title">Fusu oràriu de sa zona tua</string>
+    <string name="preferences_show_week_num_title">Mustra nùmeru de chida</string>
+    <string name="preferences_about_title">In contu de</string>
+    <string name="preferences_build_version">Versione de fràigu</string>
+    <string name="gadget_title">Calendàriu</string>
+    <plurals name="month_more_events">
+        <item quantity="one">"+1"</item>
+        <item quantity="other">+<xliff:g id="number">%d</xliff:g></item>
+    </plurals>
+    <string name="preferences_experimental_category">Isperimentale</string>
+    <string name="preferences_reminders_category">Promemòrias</string>
+    <string name="preferences_reminders_responded_label">Brinca promemòrias</string>
+    <string name="preferences_reminders_responded_dialog">Brinca promemòrias</string>
+    <string name="preferences_reminders_quiet_hours_label">Oras de silèntziu</string>
+    <string name="preferences_reminders_quiet_hours_description">Promemòria de eventos a sa muda in oras ispetzìficas.</string>
+    <string name="preferences_reminders_quiet_hours_start">Cumintzu oras de silèntziu</string>
+    <string name="preferences_reminders_quiet_hours_end">Agabbu oras de silèntziu</string>
+    <string name="copy_db">Imbia base de datos</string>
+    <string name="directory_searching_fmt">Chirchende <xliff:g id="domain">%s</xliff:g>\u2026</string>
+    <string name="accessibility_remove_attendee">Boga•nche partetzipante</string>
+    <string name="accessibility_pick_start_date">Data de cumintzu</string>
+    <string name="accessibility_pick_start_time">Ora de cumintzu</string>
+    <string name="accessibility_pick_end_date">Data de fine</string>
+    <string name="accessibility_pick_end_time">Ora de agabbu</string>
+    <string name="accessibility_pick_time_zone">Zona orària</string>
+    <string name="accessibility_pick_recurrence">Repite s\'eventu</string>
+    <string name="accessibility_add_reminder">Agiunghe unu promemòria</string>
+    <string name="accessibility_remove_reminder">Boga•nche promemòria</string>
+    <string name="accessibility_add_attendee">Agiunghe unu partetzipante</string>
+    <string name="accessibility_sync_cal">Sincroniza calendàriu</string>
+    <string name="accessibility_all_day">Eventu de totu sa die</string>
+    <string name="accessibility_repeats">Ripetitzione</string>
+    <string name="accessibility_reminder_time">Oràriu promemòria</string>
+    <string name="accessibility_reminder_type">Genia de promemòria</string>
+    <string name="accessibility_reminder_showmeas">Ammustra·mi comente</string>
+    <string name="accessibility_reminder_privacy">Riservadesa</string>
+    <string name="acessibility_cal_notification">Notìfica de calendàriu</string>
+    <string name="acessibility_snooze_notification">Post-pone notìfica</string>
+    <string name="accessibility_email_notification">Imbia unu messàgiu a is invitados</string>
+    <string name="day_view_new_event_hint">+ Eventu nou</string>
+    <string name="template_announce_item_index">Eventu <xliff:g id="item_index">%1$s</xliff:g> of <xliff:g id="item_count">%2$s</xliff:g>.</string>
+    <plurals name="Nevents">
+        <item quantity="one">1 eventu</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> eventos</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="one">+1 eventu</item>
+        <item quantity="other">+<xliff:g id="count">%d</xliff:g> eventos</item>
+    </plurals>
+    <string name="acessibility_selected_marker_description">Eventu seletzionadu</string>
+    <string name="do_not_check">NON controlles -&gt;</string>
+    <string name="recurrence_dialog_title">Repite</string>
+    <string name="recurrence_dialog_title_never">Non repitet mai</string>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="one">Cada <xliff:g id="count">%d</xliff:g> die</item>
+        <item quantity="other">Cada <xliff:g id="count">%d</xliff:g> dies</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="one">Cada <xliff:g id="count">%d</xliff:g> chida</item>
+        <item quantity="other">Cada <xliff:g id="count">%d</xliff:g> chidas</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="one">Cada <xliff:g id="count">%d</xliff:g> mese</item>
+        <item quantity="other">Cada <xliff:g id="count">%d</xliff:g> meses</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="one">Cada <xliff:g id="count">%d</xliff:g> annu</item>
+        <item quantity="other">Cada <xliff:g id="count">%d</xliff:g> annos</item>
+    </plurals>
+    <string name="recurrence_month_pattern_by_day">cada mese in sa matessi die</string>
+    <string name="recurrence_end_continously">Pro semper</string>
+    <string name="recurrence_end_date_label">Finas a sa data</string>
+    <string name="recurrence_end_date">Finas a su <xliff:g id="date">%s</xliff:g></string>
+    <string name="recurrence_end_count_label">Pro una filera de eventos</string>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">Pro <xliff:g id="event_count">%d</xliff:g> eventu</item>
+        <item quantity="other">Pro <xliff:g id="event_count">%d</xliff:g> eventos</item>
+    </plurals>
+    <string name="acessibility_recurrence_choose_end_date_description">càmbia data de agabbu</string>
+</resources>

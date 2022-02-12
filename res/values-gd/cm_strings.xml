@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2012-2016 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="on_permission_read_calendar">Chuir thu à comas cead riatanach.</string>
+    <string name="no_map">Cha deach aplacaid mhapaichean a stàladh</string>
+    <string name="error_generating_ics">Dh’èirich duilgheadas nuair a bha sinn a’ co-roinneadh an tachartais</string>
+    <string name="share_label">Co-roinn</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">Iarr dàil air cuimhneachan dùsail</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Iarr dàil dùsail nuair a chuireas tu cuimhneachan na dhùsal</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Cleachd dàil dùsail bhunaiteach an-còmhnaidh</string>
+    <string name="snooze_delay_dialog_title">Suidhich dàil dùsail</string>
+    <string name="preferences_default_snooze_delay_title">Faid bhunaiteach dàil an dùsail</string>
+    <string name="preferences_default_snooze_delay_dialog">Dàil bhunaiteach an dùsail</string>
+    <string name="events_delete">Sguab às na tachartasan</string>
+    <string name="action_select_all">Tagh na h-uile</string>
+    <string name="action_select_none">Dì-thagh na h-uile</string>
+    <string name="action_delete">Deiseil</string>
+    <string name="all_events">A h-uile tachartas</string>
+    <string name="no_events">Chan eil tachartas ann</string>
+    <string name="evt_del_dlg_title">A bheil thu airson na tachartasan a sguabadh às?</string>
+    <string name="evt_del_dlg_msg_selected">Thèid na tachartasan a thagh thu a sguabadh às</string>
+    <string name="evt_del_dlg_msg_all">Thèid gach tachartas a sguabadh às</string>
+    <string name="no_events_selected">Cha deach tachartas a thaghadh</string>
+    <plurals name="events_selected">
+        <item quantity="one">%1$d tachartas air a thaghadh</item>
+        <item quantity="two">%1$d thachartas air a thaghadh</item>
+        <item quantity="few">%1$d tachartasan air a thaghadh</item>
+        <item quantity="other">%1$d tachartas air a thaghadh</item>
+    </plurals>
+    <string name="default_start_title">An sealladh bunaiteach</string>
+    <string name="default_start_last">Sealladh a chleachd thu roimhe</string>
+    <string name="buttons_list_0">Latha</string>
+    <string name="buttons_list_1">Seachdain</string>
+    <string name="buttons_list_2">Mìos</string>
+    <string name="buttons_list_3">Clàr-ghnothaich</string>
+    <string name="buttons_list_4">Bliadhna</string>
+    <string name="cal_share_intent_title">Cuir an tachartas gu:</string>
+    <string name="cal_export_event_sdcard_title">Às-phortaich gu cairt SD</string>
+    <string name="cal_export_succ_msg">Chaidh an tachartas às-phortadh: %1s</string>
+    <string name="cal_import_menu_title">Ion-phortaich tachartas</string>
+    <string name="cal_nothing_to_import">Gun dad ri ion-phortadh</string>
+    <string name="cal_import_error_msg">Dh’fhàillig ion-phortadh a’ mhìosachain</string>
+    <string name="cal_pick_ics">Tagh faidhle airson ion-phortadh</string>
+    <string name="week_of_year">seachdain <xliff:g id="number">%1$d</xliff:g> <xliff:g id="year">%2$s</xliff:g></string>
+</resources>
