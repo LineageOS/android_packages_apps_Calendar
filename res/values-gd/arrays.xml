@@ -92,8 +92,8 @@
         <item>A h-uile tachartas</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Seo ⁊ tachartasan san àm ri teachd</item>
-        <item>A h-uile tachartas</item>
+        <item>This &amp; future events</item>
+        <item>All events</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>An tachartas seo a-mhàin</item>

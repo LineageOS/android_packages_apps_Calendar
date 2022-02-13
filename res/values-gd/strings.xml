@@ -57,6 +57,7 @@
         <item quantity="few">SEACHDAIN <xliff:g id="count">%d</xliff:g></item>
         <item quantity="other">SEACHDAIN <xliff:g id="count">%d</xliff:g></item>
     </plurals>
+    <string name="calendar_refresh"> \"Ath-nuadhaich\"</string>
     <string name="show_day_view">"Seall an latha"</string>
     <string name="agenda_view">"Clàr-gnothaich"</string>
     <string name="day_view">"Latha"</string>
@@ -106,14 +107,14 @@
     <string name="privacy_label">Prìobhaideachd</string>
     <string name="reminders_label">Cuir cuimhneachan ris</string>
     <string name="no_syncable_calendars">Chan eil mìosachan ann</string>
-    <string name="no_calendars_found">Mus cuir thu tachartas ris, feumaidh tu cunntas mìosachain a chur ris an uidheam agad agus mìosachan a nochdadh. Suath ri “Cuir cunntas ris” a chur cunntas ris (ma tha thu dìreach air cunntas a chur ris, fuirich gus am gi an sioncronachadh deiseil is feuch ris a-rithist an uairsin). No suath ri “Sguir dheth” agus dèan cinnteach gu bheil mìosachan a nochdas ann.</string>
+    <string name="no_calendars_found">Mus cuir thu tachartas ris, feumaidh tu cunntas mìosachain a chur ris an uidheam agad agus mìosachan a nochdadh. Suath ri “Cuir cunntas ris” a chur cunntas ris (ma tha thu dìreach air cunntas a chur ris, fuirich gus am bi an sioncronachadh deiseil is feuch ris a-rithist an uairsin). No suath ri “Sguir dheth” agus dèan cinnteach gu bheil mìosachan a nochdas ann.</string>
     <string name="create_an_account_desc">"Obraichidh am mìosachan nas fheàrr le cunntas Google.\n\n\u2022 Faigh cothrom air o bhrabhsair-lìn sam bith\n\u2022 Dèan lethbhreac-glèidhidh dhe na tachartasan agad tu tèarainte"</string>
     <string name="add_account">Cuir cunntas ris</string>
     <string name="view_event_calendar_label">Mìosachan:</string>
     <string name="view_event_organizer_label">Eagraiche:</string>
     <string name="choose_event_color_label">Tagh dath an tachartais</string>
     <string name="event_color_picker_dialog_title">Dath an tachartais</string>
-    <string name="event_color_set_to_default">Suidhich air dath tùsail a’ mhìosachain</string>
+    <string name="event_color_set_to_default">Suidhich air dath bunaiteach a’ mhìosachain</string>
     <string name="calendar_color_picker_dialog_title">Dath a’ mhìosachain</string>
     <string name="calendar_square_color_picker_description">Roghnaichear nan dathan</string>
     <string name="view_event_response_label">Am bi thu an làthair?</string>
@@ -127,13 +128,13 @@
     <string name="map_label">Mapa</string>
     <string name="call_label">Cuir gairm</string>
     <string name="quick_response_settings">Grad-fhreagairtean</string>
-    <string name="quick_response_settings_summary">Deasaich na freagairtean tùsail nuair a chuireas tu post-d dha na h-aoighean</string>
+    <string name="quick_response_settings_summary">Deasaich na freagairtean bunaiteach nuair a chuireas tu post-d dha na h-aoighean</string>
     <string name="quick_response_settings_title">Deasaich na grad-fhreagairtean</string>
     <string name="quick_response_settings_edit_title">Grad-fhreagairt</string>
     <string name="quick_response_dialog_title">Tagh grad-fhreagairt</string>
     <string name="quick_response_email_failed">Cha do lorg sinn prògram puist-d</string>
     <string-array name="quick_response_defaults">
-        <item>Thig mi ri àm Ghàidhealach</item>
+        <item>Thig mi ri àm Gàidhealach.</item>
         <item>Bi mi ann an ceann 10 mionaidean.</item>
         <item>Siuthadaibh is tòisichibh às m’ aonais.</item>
         <item>Tha mi duilich ach chan urrainn dhomh tighinn. Am feuch sinn àm eile?</item>
@@ -206,15 +207,15 @@
     <string name="preferences_alerts_vibrateWhen_title">Dèan crith</string>
     <string name="preferences_alerts_ringtone_title">Fuaim</string>
     <string name="preferences_alerts_popup_title">Priob-uinneag</string>
-    <string name="preferences_default_reminder_title">Àm cuimhneachaidh tùsail</string>
-    <string name="preferences_default_reminder_dialog">Àm cuimhneachaidh tùsail</string>
+    <string name="preferences_default_reminder_title">Àm cuimhneachaidh bunaiteach</string>
+    <string name="preferences_default_reminder_dialog">Àm cuimhneachaidh bunaiteach</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Cleachd roinn-tìde na dachaigh</string>
     <string name="preferences_use_home_tz_descrip">Seallaidh seo na mìosachain agus amannan nan tachartasan aig roinn-tìde do dhachaigh nuair a bhios tu a’ siubhal</string>
     <string name="preferences_home_tz_title">Roinn-tìde na dachaigh</string>
     <string name="preferences_show_week_num_title">Seall àireamhan na seachdain</string>
     <string name="preferences_about_title">Mu dhèidhinn</string>
-    <string name="preferences_build_version">Tionndadh an togail</string>
+    <string name="preferences_build_version">Tionndadh na togail</string>
     <string name="gadget_title">Mìosachan</string>
     <plurals name="month_more_events">
         <item quantity="one">"+1"</item>
@@ -251,7 +252,7 @@
     <string name="accessibility_reminder_type">Seòrsa a’ chuimhneachain</string>
     <string name="accessibility_reminder_showmeas">Seall mi mar</string>
     <string name="accessibility_reminder_privacy">Prìobhaideachd</string>
-    <string name="acessibility_cal_notification">Brathan a’ mhìosachain</string>
+    <string name="acessibility_cal_notification">Brath a’ mhìosachain</string>
     <string name="acessibility_snooze_notification">Cuir am brath ’na dhùsal</string>
     <string name="accessibility_email_notification">Cuir post-d dha na h-aoighean</string>
     <string name="day_view_new_event_hint">+ Tachartas ùr</string>
